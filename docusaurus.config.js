@@ -56,11 +56,40 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      keywords: [
+        "code",
+        "coding",
+        "Software development",
+        "programming",
+        "web development",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Full stack development",
+        "MERN stack",
+        "Web development tutorials",
+        "Coding tutorials",
+        "Learning to code",
+        "Code bootcamp",
+        "Code mentorship",
+        "Code community",
+        "MongoDB",
+        "Express.js",
+        "HTML",
+        "CSS",
+        "Java",
+        "DSA",
+      ],
+      twitter: {
+        site: "@CodeMastermindHQ",
+        creator: "@AJAYDHA27250016",
+        image: "img/log.png",
+      },
       navbar: {
         title: "CodeMastermindHQ",
         logo: {
           alt: "My Site Logo",
-          src: "img/log.png",
+          src: "img/logo-6.png",
         },
         items: [
           {
@@ -70,6 +99,20 @@ const config = {
             label: "Tutorial",
           },
           { to: "/blog", label: "Blog", position: "left" },
+          { to: "/Projects", label: "Projects", position: "left" },
+          { to: "/Learning Paths", label: "Learning Paths", position: "left" },
+          {
+            to: "/Coding Assessment",
+            label: "Coding Assessment",
+            position: "left",
+          },
+          {
+            to: "/Live Coding Contests",
+            label: "Live Coding Contests",
+            position: "left",
+          },
+          { to: "/Resources", label: "Resources", position: "left" },
+          { to: "/Contact", label: "Contact", position: "left" },
           {
             href: "https://github.com/Ajay-Dhangar/CodeMastermindHQ",
             label: "GitHub",
