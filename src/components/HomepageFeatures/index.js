@@ -5,7 +5,7 @@ import styles from "./styles.module.css";
 const FeatureList = [
   {
     title: "Easy to Use",
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    Svg: require("@site/static/img/into.svg").default,
     description: (
       <>
         Our website's user interface is easy to understand and use, making your
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: "Focus on What Matters",
-    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
+    Svg: require("@site/static/img/focus-2.svg").default,
     description: (
       <>
         With our platform, you can focus on what truly matters - learning and
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: "Powered by React",
-    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    Svg: require("@site/static/img/react.svg").default,
     description: (
       <>
         React technology is at the core of our website, providing cutting-edge
