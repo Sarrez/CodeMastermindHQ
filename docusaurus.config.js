@@ -99,20 +99,7 @@ const config = {
             label: "Tutorial",
           },
           { to: "/blog", label: "Blog", position: "left" },
-          { to: "/Projects", label: "Projects", position: "left" },
-          { to: "/Learning Paths", label: "Learning Paths", position: "left" },
-          {
-            to: "/Coding Assessment",
-            label: "Coding Assessment",
-            position: "left",
-          },
-          {
-            to: "/Live Coding Contests",
-            label: "Live Coding Contests",
-            position: "left",
-          },
-          { to: "/Resources", label: "Resources", position: "left" },
-          { to: "/Contact", label: "Contact", position: "left" },
+
           {
             href: "https://github.com/Ajay-Dhangar/CodeMastermindHQ",
             label: "GitHub",
