@@ -51,6 +51,22 @@ JavaScript provides a number of built-in methods that allow you to work with arr
 
 For example, here's how you could use the push and pop methods to add and remove elements from an array:
 
+To add an element to the end of an array, you can use the `push()` method:
+
+```js title="index.js"
+let myArray = [1, 2, 3, 4, 5];
+myArray.push(6);
+console.log(myArray); // Output: [1, 2, 3, 4, 5, 6]
+```
+
+To remove an element from the end of an array, you can use the `pop()` method:
+
+```js title="index.js"
+let myArray = [1, 2, 3, 4, 5];
+myArray.pop();
+console.log(myArray); // Output: [1, 2, 3, 4]
+```
+
 ## 2. What are Objects?
 
 An object is a collection of key-value pairs. Each key in an object is a string that maps to a value. The value can be any type of data, including other objects or arrays.
@@ -104,7 +120,7 @@ const person = {
 person.age = 23;
 person["address"]["city"] = "Indore";
 
-console.log(person); // {name: 'Ajay', age: 23, address: {city: 'Mandsaur', state: 'MP', scountry: 'India'}}
+console.log(person); // {name: 'Ajay', age: 23, address: {city: 'Indore', state: 'MP', scountry: 'India'}}
 ```
 
 ## 3. Iterating over Arrays and Objects

@@ -35,7 +35,7 @@ Function return values are the values that a function sends back to the code tha
 
 ## 4. Function Scope and Closures
 
-Function scope refers to the accessibility of variables within a function. Variables that are declared inside a function are only accessible within that function. This means that they cannot be accessed from outside the function. Here is an example:
+**Function scope** refers to the accessibility of variables within a function. Variables that are declared inside a function are only accessible within that function. This means that they cannot be accessed from outside the function. Here is an example:
 
 ```js title="index.js"
 function myFunction() {
@@ -49,7 +49,7 @@ console.log(myVariable); // Output: Uncaught ReferenceError: myVariable is not d
 
 In this example, `myVariable` is only accessible within the `myFunction` function. When we try to access it outside the function, we get a `ReferenceError`.
 
-Closures are a way of preserving the value of a variable even after the function that created it has finished executing. This is achieved by defining a function inside another function, and returning the inner function from the outer function. Here is an example:
+**Closures** are a way of preserving the value of a variable even after the function that created it has finished executing. This is achieved by defining a function inside another function, and returning the inner function from the outer function. Here is an example:
 
 ```js title="index.js"
 function outerFunction() {

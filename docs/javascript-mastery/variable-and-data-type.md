@@ -10,27 +10,28 @@ Variables are used in JavaScript to store data that can be used throughout your 
 
 ```js title="index.js"
 var greeting = "Hello, World!";
+console.log(greeting); // Hello, World!
 ```
 
 In this example, we're declaring a variable called `greeting` and setting its value to the string "Hello, World!".
 
 JavaScript supports several different data types, including strings, numbers, booleans, and objects. Here's an overview of the different data types in JavaScript:
 
-- Strings: A sequence of characters, surrounded by either single or double quotes. Example: `"Hello, World!"`.
-- Numbers: Can be either integers or floating-point numbers. Example: `42` or `3.14`.
-- Booleans: Can be either `true` or `false`.
-- Objects: A collection of key-value pairs, enclosed in curly braces. Example: `{ name: "John", age: 30 }`.
-- Arrays: A collection of values, enclosed in square brackets. Example: `[1, 2, 3]`.
+- **Strings:** A sequence of characters, surrounded by either single or double quotes. Example: `"Hello, World!"`.
+- **Numbers:** Can be either integers or floating-point numbers. Example: `42` or `3.14`.
+- **Booleans:** Can be either `true` or `false`.
+- **Objects:** A collection of key-value pairs, enclosed in curly braces. Example: `{ name: "John", age: 30 }`.
+- **Arrays:** A collection of values, enclosed in square brackets. Example: `[1, 2, 3]`.
 
 ## 2. Operators in JavaScript
 
 JavaScript supports a wide range of operators that can be used to manipulate data. Here's an overview of some of the most commonly used operators in JavaScript:
 
-- Arithmetic operators: Used to perform basic mathematical operations, such as addition, subtraction, multiplication, and division. Example: `2 + 2`.
-- Comparison operators: Used to compare values and return a Boolean value. Examples: `2 > 1`, `2 <= 2`.
-- Logical operators: Used to combine multiple Boolean values and return a Boolean result. Examples: `true && false`, `true || false`.
-- Assignment operators: Used to assign values to variables. Example: `x = 42`.
-- Conditional (ternary) operator: Used to evaluate a condition and return one of two values. Example: `isRaining ? "Bring an umbrella" : "Enjoy the sunshine"`.
+- **Arithmetic operators:** Used to perform basic mathematical operations, such as addition, subtraction, multiplication, and division. Example: `2 + 2`.
+- **Comparison operators:** Used to compare values and return a Boolean value. Examples: `2 > 1`, `2 <= 2`.
+- **Logical operators:** Used to combine multiple Boolean values and return a Boolean result. Examples: `true && false`, `true || false`.
+- **Assignment operators:** Used to assign values to variables. Example: `x = 42`.
+- **Conditional (ternary) operator:** Used to evaluate a condition and return one of two values. Example: `isRaining ? "Bring an umbrella" : "Enjoy the sunshine"`.
 
 ## 3. More extra for better understanding
 
@@ -50,6 +51,7 @@ JavaScript supports a wide range of operators that can be used to manipulate dat
      }
      console.log(x); // Output: 20
    }
+   myFunction();
    ```
 
    In this example, the variable `x` is declared with `var` in the function scope.
@@ -71,6 +73,7 @@ JavaScript supports a wide range of operators that can be used to manipulate dat
      }
      console.log(x); // Output: 10
    }
+   myFunction();
    ```
 
    In this example, the variable `x` is declared with `let` in the function scope.
@@ -78,7 +81,7 @@ JavaScript supports a wide range of operators that can be used to manipulate dat
    When `console.log(x)` is called within the if statement, it outputs `20`. When `console.log(x)` is called outside the if statement, it outputs `10`.
 
 3. **`const`:** This keyword declares a constant variable with block scope. Variables declared with `const` cannot be reassigned or redeclared within the same scope.
-4. Here's an example:
+   Here's an example:
 
    ```js title="index.js"
    function myFunction() {
@@ -89,6 +92,7 @@ JavaScript supports a wide range of operators that can be used to manipulate dat
      }
      console.log(x); // Output: 10
    }
+   myFunction();
    ```
 
    The main difference between `let` and `const` in JavaScript is that variables declared with `let` can be reassigned, whereas variables declared with `const` cannot be reassigned.
