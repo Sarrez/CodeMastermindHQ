@@ -1,4 +1,12 @@
-# inro
+# CodeMastermindHQ
+
+## Status
+
+[![CodeQL](https://github.com/Ajay-Dhangar/CodeMastermindHQ/actions/workflows/codeql.yml/badge.svg)](https://github.com/Ajay-Dhangar/CodeMastermindHQ/actions/workflows/codeql.yml)
+
+
+
+## inroduction
 
 CodeMastermindHQ is a platform designed for aspiring coders and developers to enhance their coding skills and stay up-to-date with the latest programming technologies. With a vast range of tutorials, resources, and challenges, this website provides an interactive and immersive learning experience for beginners and experienced programmers alike.
 
