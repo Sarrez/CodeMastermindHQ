@@ -1,4 +1,24 @@
-# inro
+<h1 align="center">CodeMastermindHQ</h1>
+
+![screencapture-codemastermindhq-vercel-app-2023-04-05-08_47_05](https://user-images.githubusercontent.com/99037494/229972818-264a8c07-603f-43d1-8852-a210d0e46b61.png)
+
+## Status
+
+<a href="https://github.com/Ajay-Dhangar/CodeMastermindHQ/actions/workflows/codeql.yml"><img src="https://github.com/Ajay-Dhangar/CodeMastermindHQ/actions/workflows/codeql.yml/badge.svg"  alt="CodeQL" /></a>
+<a href="https://twitter.com/AJAYDHA27250016"><img src="https://img.shields.io/twitter/follow/AJAYDHA27250016.svg?style=social"  alt="Twitter Follow" /></a>
+<a href="https://discord.gg/BFkPKMsfuZ"><img src="https://img.shields.io/discord/102860784329052160.svg" alt="Discord Chat" /></a>
+<a href="https://github.com/Ajay-Dhangar/CodeMastermindHQ/blob/main/LICENSE"><img src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000"></a>
+
+## Tutorials
+
+![screencapture-codemastermindhq-vercel-app-docs-category-javascript-mastery-2023-04-05-08_46_45](https://user-images.githubusercontent.com/99037494/229973001-18885989-0252-46b9-9bbb-5af72887bc29.png)
+
+## Blogs
+
+![image](https://user-images.githubusercontent.com/99037494/229972770-0d7d59ce-01ab-4ff0-b78c-1b31a253880f.png)
+
+
+## inroduction
 
 CodeMastermindHQ is a platform designed for aspiring coders and developers to enhance their coding skills and stay up-to-date with the latest programming technologies. With a vast range of tutorials, resources, and challenges, this website provides an interactive and immersive learning experience for beginners and experienced programmers alike.
 
