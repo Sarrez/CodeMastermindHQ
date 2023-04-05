@@ -9,7 +9,7 @@
 <a href="https://discord.gg/BFkPKMsfuZ"><img src="https://img.shields.io/discord/102860784329052160.svg" alt="Discord Chat" /></a>
 <a href="https://github.com/Ajay-Dhangar/CodeMastermindHQ/blob/main/LICENSE"><img src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000"></a>
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODDE_OF_CONDUCT.md)
 ## Tutorials
 
 ![screencapture-codemastermindhq-vercel-app-docs-category-javascript-mastery-2023-04-05-08_46_45](https://user-images.githubusercontent.com/99037494/229973001-18885989-0252-46b9-9bbb-5af72887bc29.png)
