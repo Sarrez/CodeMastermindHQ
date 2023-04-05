@@ -4,7 +4,7 @@
 
 [![CodeQL](https://github.com/Ajay-Dhangar/CodeMastermindHQ/actions/workflows/codeql.yml/badge.svg)](https://github.com/Ajay-Dhangar/CodeMastermindHQ/actions/workflows/codeql.yml)
 
-
+<a href="https://discord.gg/BFkPKMsfuZ"><img src="https://img.shields.io/discord/102860784329052160.svg" alt="Discord Chat" /></a>
 
 ## inroduction
 
