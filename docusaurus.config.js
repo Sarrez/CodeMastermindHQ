@@ -107,7 +107,7 @@ const config = {
           },
           {
             href: "https://github.com/sponsors/Ajay-Dhangar",
-            label: "Sponsors",
+            label: "Sponsor this project",
             position: "right",
           },
         ],
