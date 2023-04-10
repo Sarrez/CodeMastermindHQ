@@ -116,7 +116,7 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Docs",
+            title: "Links",
             items: [
               {
                 label: "Tutorial",
@@ -126,6 +126,14 @@ const config = {
                 label: "Blog",
                 to: "/blog",
               },
+              {
+                label: "Projects",
+                to: "/",
+              },
+              {
+                label: "Coding",
+                to: "/",
+              },
             ],
           },
           {
@@ -133,15 +141,20 @@ const config = {
             items: [
               {
                 label: "Stack Overflow",
-                href: "https://stackoverflow.com/users/18530900/ajay-dhangar",
+                href: "https://stackoverflowteams.com/c/codemastermindhq",
               },
               {
-                label: "LinkedIn",
-                href: "https://www.linkedin.com/in/ajay-dhangar/",
+                label: "Discord",
+                href: "https://discord.com/invite/BFkPKMsfuZ",
+              },
+
+              {
+                label: "Whatsapp",
+                href: "https://chat.whatsapp.com/HzbYP9F1Sn3ASPW4NCIAkL",
               },
               {
-                label: "Twitter",
-                href: "https://twitter.com/AJAYDHA27250016",
+                label: "MERN Stack Developers Network",
+                href: "https://www.linkedin.com/groups/14232119/",
               },
             ],
           },
@@ -149,17 +162,25 @@ const config = {
             title: "More",
             items: [
               {
-                label: "MERN Stack Developers Network",
-                href: "https://www.linkedin.com/groups/14232119/",
-              },
-              {
                 label: "GitHub",
                 href: "https://github.com/Ajay-Dhangar",
+              },
+              {
+                label: "Twitter",
+                href: "https://twitter.com/AJAYDHA27250016",
+              },
+              {
+                label: "LinkedIn",
+                href: "https://www.linkedin.com/in/ajay-dhangar/",
+              },
+              {
+                label: "Stack Overflow",
+                href: "https://stackoverflow.com/users/18530900/ajay-dhangar",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} CodeMastermindHQ. All rights reserved. Made with ❤️ by <a href="https://ajay-dhangar.github.io" target="_blank">Ajay-Dhangar</a>`,
+        copyright: `Copyright © ${new Date().getFullYear()} CodeMastermindHQ. Made with ❤️ by <a href="https://ajay-dhangar.github.io" target="_blank">Ajay-Dhangar</a>`,
       },
 
       prism: {
