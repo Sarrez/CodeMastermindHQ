@@ -14,7 +14,7 @@ Conditional statements allow us to make decisions in our code. We can use them t
 
 The most basic form of a conditional statement is the "if" statement. It tests for a condition and then executes a block of code if that condition is true. Here's an example:
 
-```js title="index.js"
+```js title="JavaScript"
 if (condition) {
   // code to be executed if the condition is true
 }
@@ -24,7 +24,7 @@ In the above code, "condition" is a placeholder for the actual condition that we
 
 Here's an example that uses an "if" statement to test whether a number is even or odd:
 
-```js title="index.js"
+```js title="JavaScript"
 let num = 10;
 
 if (num % 2 === 0) {
@@ -40,7 +40,7 @@ In this example, we're using the modulo operator to test whether `num` is even o
 
 Sometimes, we want to test for multiple conditions. We can do this using the `else if` statement. Here's an example:
 
-```js title="index.js"
+```js title="JavaScript"
 let num = 10;
 
 if (num > 0) {
@@ -58,7 +58,7 @@ In this example, we're testing whether `num` is positive, negative, or zero. If 
 
 The "switch" statement is another way to test for multiple conditions. It's useful when we have a large number of possible conditions to test. Here's an example:
 
-```js title="index.js"
+```js title="JavaScript"
 let day = "Wednesday";
 
 switch (day) {
@@ -86,7 +86,7 @@ Loops allow us to repeat a block of code multiple times. They're useful when we 
 
 The most commonly used loop in JavaScript is the `for` loop. It allows us to repeat a block of code a specific number of times. Here's an example:
 
-```js title"index.js"
+```js title="JavaScript"
 for (let i = 0; i < 10; i++) {
   console.log(i);
 }
@@ -98,7 +98,7 @@ In this example, we're using a `for` loop to print the numbers 0 to 9. The loop 
 
 The `while` loop is another way to repeat a block of code, but it doesn't require us to specify the number of times to repeat. Instead, it repeats the block of code as long as a specified condition is true. Here's an example:
 
-```js title="index.js"
+```js title="JavaScript"
 let i = 0;
 
 while (i < 10) {
@@ -113,7 +113,7 @@ In this example, we're using a `while` loop to print the numbers 0 to 9. The loo
 
 The `do-while` loop is similar to the `while` loop, but it guarantees that the block of code will be executed at least once, even if the condition is false from the beginning. Here's an example:
 
-```js title="index.js"
+```js title="JavaScript"
 let i = 0;
 
 do {

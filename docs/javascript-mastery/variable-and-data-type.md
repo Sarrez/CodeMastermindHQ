@@ -8,7 +8,7 @@ sidebar_position: 2
 
 Variables are used in JavaScript to store data that can be used throughout your code. In JavaScript, you can declare a variable using the `var`, `let`, or `const` keyword. Here's an example:
 
-```js title="index.js"
+```js title="JavaScript"
 var greeting = "Hello, World!";
 console.log(greeting); // Hello, World!
 ```
@@ -42,7 +42,7 @@ JavaScript supports a wide range of operators that can be used to manipulate dat
 
    Here's an example:
 
-   ```js title="index.js"
+   ```js title="JavaScript"
    function myFunction() {
      var x = 10;
      if (true) {
@@ -64,7 +64,7 @@ JavaScript supports a wide range of operators that can be used to manipulate dat
 
    Here's an example:
 
-   ```js title="index.js"
+   ```js title="JavaScript"
    function myFunction() {
      let x = 10;
      if (true) {
@@ -83,7 +83,7 @@ JavaScript supports a wide range of operators that can be used to manipulate dat
 3. **`const`:** This keyword declares a constant variable with block scope. Variables declared with `const` cannot be reassigned or redeclared within the same scope.
    Here's an example:
 
-   ```js title="index.js"
+   ```js title="JavaScript"
    function myFunction() {
      const x = 10;
      if (true) {
@@ -99,7 +99,7 @@ JavaScript supports a wide range of operators that can be used to manipulate dat
 
    Here's an example that illustrates the difference:
 
-   ```js title="index.js"
+   ```js title="JavaScript"
    let x = 10;
    x = 20;
    console.log(x); // Output: 20
@@ -117,7 +117,7 @@ So in summary, if you have a variable that you know should not be reassigned, us
 
 Here's an example of how to declare a variable:
 
-```js title="index.js"
+```js title="JavaScript"
 let name = "Ajay";
 ```
 
@@ -126,7 +126,7 @@ The `let` keyword is used to declare a variable in JavaScript.
 
 JavaScript supports several data types, including strings, numbers, booleans, and objects. Here are some examples:
 
-```js title="index.js"
+```js title="JavaScript"
 let message = "Hello";
 let age = 22;
 let isStudent = true;
@@ -139,7 +139,7 @@ JavaScript also supports various operators, such as arithmetic operators, compar
 
 Here are some examples:
 
-```js title="index.js"
+```js title="JavaScript"
 let a = 10;
 let b = 5;
 let sum = a + b; // 15
@@ -165,7 +165,7 @@ In this example, `sum` is the result of adding `a` and `b`, `difference` is the 
 
    Here's an example:
 
-   ```js title="index.js"
+   ```js title="JavaScript"
    let x = 10;
    let y = 3.14;
    ```
@@ -174,7 +174,7 @@ In this example, `sum` is the result of adding `a` and `b`, `difference` is the 
 
    Here's an example:
 
-   ```js title="index.js"
+   ```js title="JavaScript"
    let name = "Ajay";
    let message = "Hello, world!";
    ```
@@ -183,7 +183,7 @@ In this example, `sum` is the result of adding `a` and `b`, `difference` is the 
 
    Here's an example:
 
-   ```js title="index.js"
+   ```js title="JavaScript"
    let isRunning = true;
    let isLoggedIn = false;
    ```
@@ -192,7 +192,7 @@ In this example, `sum` is the result of adding `a` and `b`, `difference` is the 
 
    Here's an example:
 
-   ```js title="index.js"
+   ```js title="JavaScript"
    let x;
    console.log(x); // Output: undefined
    ```
@@ -201,7 +201,7 @@ In this example, `sum` is the result of adding `a` and `b`, `difference` is the 
 
    Here's an example:
 
-   ```js title="index.js"
+   ```js title="JavaScript"
    let x = null;
    console.log(x); // Output: null
    ```
@@ -212,7 +212,7 @@ In this example, `sum` is the result of adding `a` and `b`, `difference` is the 
 
    Here's an example:
 
-   ```js title="index.js"
+   ```js title="JavaScript"
    let x = 10;
    let y = 3;
    console.log(x + y); // Output: 13
@@ -226,7 +226,7 @@ In this example, `sum` is the result of adding `a` and `b`, `difference` is the 
 
    Here's an example:
 
-   ```js title="index.js"
+   ```js title="JavaScript"
    let x = 10;
    x += 5; // Equivalent to x = x + 5
    console.log(x); // Output: 15
@@ -236,7 +236,7 @@ In this example, `sum` is the result of adding `a` and `b`, `difference` is the 
 
    Here's an example:
 
-   ```js title="index.js"
+   ```js title="JavaScript"
    let x = 10;
    let y = 5;
    console.log(x > y); // Output: true
@@ -251,7 +251,7 @@ In this example, `sum` is the result of adding `a` and `b`, `difference` is the 
 
    Here's an example:
 
-   ```js title="index.js"
+   ```js title="JavaScript"
    let x = 10;
    let y = 5;
    console.log(x > 5 && y < 10); // Output: true
@@ -263,7 +263,7 @@ In this example, `sum` is the result of adding `a` and `b`, `difference` is the 
 
    Here's an example:
 
-   ```js title="index.js"
+   ```js title="JavaScript"
    let firstName = "Ajay";
    let lastName = "Dhangar";
    console.log(firstName + " " + lastName); // Output: Ajay Dhangar

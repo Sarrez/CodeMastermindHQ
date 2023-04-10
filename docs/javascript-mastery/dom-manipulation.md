@@ -18,7 +18,7 @@ Before we can manipulate elements in the DOM, we need to be able to select them 
 
 To select elements by tag name, we use the `getElementsByTagName` method. This method returns an array-like object containing all elements with the specified tag name.
 
-```js title="index.js"
+```js title="JavaScript"
 const elements = document.getElementsByTagName("h1");
 ```
 
@@ -28,7 +28,7 @@ This selects all `h1` elements on the page and stores them in the `elements` var
 
 To select elements by class name, we use the `getElementsByClassName` method. This method returns an array-like object containing all elements with the specified class name.
 
-```js title="index.js"
+```js title="JavaScript"
 const elements = document.getElementsByClassName("my-class");
 ```
 
@@ -38,7 +38,7 @@ This selects all elements with the `my-class` class and stores them in the `elem
 
 To select elements by ID, we use the `getElementById` method. This method returns the element with the specified ID.
 
-```js title="index.js"
+```js title="JavaScript"
 const element = document.getElementById("my-id");
 ```
 
@@ -48,7 +48,7 @@ This selects the element with the `my-id` ID and stores it in the `element` vari
 
 To select elements using more complex selectors, we can use the `querySelector` and `querySelectorAll` methods. These methods allow us to select elements using CSS-style selectors.
 
-```js title="index.js"
+```js title="JavaScript"
 const element = document.querySelector(".my-class");
 const elements = document.querySelectorAll("p");
 ```
@@ -63,7 +63,7 @@ Once we have selected an element from the DOM, we can modify its content and att
 
 To change the content of an element, we can use the `innerHTML` property. This property sets or returns the HTML content inside an element.
 
-```js title="index.js"
+```js title="JavaScript"
 const element = document.getElementById("my-id");
 element.innerHTML = "New content";
 ```
@@ -74,7 +74,7 @@ This changes the content of the element with the `my-id` ID to 'New content'.
 
 To change the attributes of an element, we can use the `setAttribute` method. This method sets the value of the specified attribute for the selected element.
 
-```js title="index.js"
+```js title="JavaScript"
 const element = document.getElementById("my-id");
 element.setAttribute("src", "new-image.jpg");
 ```
@@ -89,7 +89,7 @@ One of the most powerful features of the DOM is its ability to respond to user e
 
 To listen for user events, we can use the `addEventListener` method. This method attaches an event listener function to the selected element.
 
-```js title="index.js"
+```js title="JavaScript"
 const button = document.getElementById("my-button");
 
 button.addEventListener("click", function () {
@@ -103,7 +103,7 @@ This adds a click event listener to the button with the `my-button` ID. When the
 
 When an event is triggered, an event object is created that contains information about the event. This object can be accessed within the event listener function as the first argument.
 
-```js title="index.js"
+```js title="JavaScript"
 const button = document.getElementById("my-button");
 
 button.addEventListener("click", function (event) {
@@ -120,7 +120,7 @@ Sometimes, we want to prevent the default behavior of an element when an event i
 
 To prevent the default behavior, we can call the `preventDefault` method on the event object.
 
-```js title="index.js"
+```js title="JavaScript"
 const form = document.getElementById("my-form");
 
 form.addEventListener("submit", function (event) {

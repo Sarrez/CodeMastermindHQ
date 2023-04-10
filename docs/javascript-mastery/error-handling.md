@@ -27,7 +27,7 @@ In this tutorial, we will cover the following topics:
 
 1. **Syntax Error:**
 
-   ```js title="index.js"
+   ```js title="JavaScript"
    // Example of a syntax error
    let x = 5
    console.log(x;
@@ -35,7 +35,7 @@ In this tutorial, we will cover the following topics:
 
 2. **Reference Error:**
 
-   ```js title="index.js"
+   ```js title="JavaScript"
    // Example of a reference error
    let y = z;
    console.log(y);
@@ -43,7 +43,7 @@ In this tutorial, we will cover the following topics:
 
 3. **Type Error:**
 
-   ```js title="index.js"
+   ```js title="JavaScript"
    // Example of a type error
    let num = 10;
    num.toUpperCase();
@@ -51,7 +51,7 @@ In this tutorial, we will cover the following topics:
 
 4. **Handling Errors with try-catch:**
 
-   ```js title="index.js"
+   ```js title="JavaScript"
    try {
      // Code that might throw an error
    } catch (error) {
@@ -62,14 +62,14 @@ In this tutorial, we will cover the following topics:
 
 5. **Debugging with console.log:**
 
-   ```js title="index.js"
+   ```js title="JavaScript"
    let x = 5;
    console.log("x:", x);
    ```
 
 6. **Debugging with breakpoints:**
 
-   ```js title="index.js"
+   ```js title="JavaScript"
    // Set a breakpoint in your code using the browser's developer tools
    let y = 10;
    console.log("y:", y);

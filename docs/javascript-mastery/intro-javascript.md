@@ -19,7 +19,7 @@ You can use any code editor of your choice, such as Visual Studio Code, Sublime 
 
 JavaScript code is typically embedded in HTML files using `<script>` tags. Here's an example:
 
-```html title="index.html"
+```html title="HTML"
 <!DOCTYPE html>
 <html>
   <head>
@@ -36,7 +36,7 @@ JavaScript code is typically embedded in HTML files using `<script>` tags. Here'
 
 JavaScript code is made up of statements, which are executed in the order that they appear. Statements can be separated by semicolons (`;`) or newlines. Here's an example of a simple JavaScript statement:
 
-```js
+```js title="JavaScript"
 alert("Hello, World!");
 ```
 
@@ -52,7 +52,7 @@ Here's an example of how to use the console to display the current date and time
 
 2. Enter the following code:
 
-   ```js
+   ```js title="JavaScript"
    console.log(new Date());
    ```
 
@@ -62,7 +62,7 @@ Here's an example of how to use the console to display the current date and time
 
 Now that you have your development environment set up and you understand the basics of JavaScript syntax, it's time to write your first "Hello, World!" program.
 
-```html title="index.html"
+```html title="HTML"
 <!DOCTYPE html>
 <html>
   <head>

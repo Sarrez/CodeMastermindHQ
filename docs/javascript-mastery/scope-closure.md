@@ -15,7 +15,7 @@ Scope and closures are fundamental concepts in JavaScript that help define how v
 
   **_Example:_**
 
-  ```js title="index.js"
+  ```js title="JavaScript"
   // Global scope variable
   var globalVar = "I am global!";
 
@@ -37,7 +37,7 @@ Scope and closures are fundamental concepts in JavaScript that help define how v
 
   **_Example:_**
 
-  ```js title="index.js"
+  ```js title="JavaScript"
   console.log(myVar); // Undefined, but no error
   var myVar = "Hello!"; // Variable declaration is hoisted
   ```
@@ -49,7 +49,7 @@ Scope and closures are fundamental concepts in JavaScript that help define how v
 
   **_Example:_**
 
-  ```js title="index.js"
+  ```js title="JavaScript"
   function outerFunction() {
     var outerVar = "I am outer!"; // Outer variable
 
@@ -74,7 +74,7 @@ Scope and closures are fundamental concepts in JavaScript that help define how v
 
   **_Example:_**
 
-  ```js title="index.js"
+  ```js title="JavaScript"
   function outerFunction() {
     var outerVar = "I am outer!"; // Outer variable
 
@@ -94,7 +94,7 @@ Immediately Invoked Function Expressions (IIFE)
 An IIFE is a function that is immediately executed after its creation.
 IIFEs are commonly used to create a private scope for variables and functions, preventing them from polluting the global scope.
 
-```js title.js
+```js title="JavaScript"
 (function () {
   var privateVar = "I am private!"; // Private variable
   console.log(privateVar); // Accessing privateVar within the IIFE

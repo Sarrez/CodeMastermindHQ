@@ -14,7 +14,7 @@ An array is a collection of values that can be accessed by their index. Each val
 
 You can create an array in JavaScript by enclosing a list of values in square brackets, separated by commas. For example:
 
-```js title="index.js"
+```js title="JavaScript"
 const numbers = [1, 2, 3, 4, 5];
 const names = ["Alice", "Bob", "Charlie"];
 const mixed = [1, "two", true];
@@ -24,7 +24,7 @@ const mixed = [1, "two", true];
 
 You can access individual elements in an array by their index. To access the first element of an array, you use the index 0. For example:
 
-```js title="index.js"
+```js title="JavaScript"
 const numbers = [1, 2, 3, 4, 5];
 console.log(numbers[0]); // 1
 console.log(numbers[2]); // 3
@@ -32,7 +32,7 @@ console.log(numbers[2]); // 3
 
 You can also modify array elements by assigning a new value to their index. For example:
 
-```js title="index.js"
+```js title="JavaScript"
 const numbers = [1, 2, 3, 4, 5];
 numbers[0] = 10;
 console.log(numbers); // [10, 2, 3, 4, 5]
@@ -53,7 +53,7 @@ For example, here's how you could use the push and pop methods to add and remove
 
 To add an element to the end of an array, you can use the `push()` method:
 
-```js title="index.js"
+```js title="JavaScript"
 let myArray = [1, 2, 3, 4, 5];
 myArray.push(6);
 console.log(myArray); // Output: [1, 2, 3, 4, 5, 6]
@@ -61,7 +61,7 @@ console.log(myArray); // Output: [1, 2, 3, 4, 5, 6]
 
 To remove an element from the end of an array, you can use the `pop()` method:
 
-```js title="index.js"
+```js title="JavaScript"
 let myArray = [1, 2, 3, 4, 5];
 myArray.pop();
 console.log(myArray); // Output: [1, 2, 3, 4]
@@ -75,7 +75,7 @@ An object is a collection of key-value pairs. Each key in an object is a string 
 
 You can create an object in JavaScript by enclosing a list of key-value pairs in curly braces, separated by commas. For example:
 
-```js title="index.js"
+```js title="JavaScript"
 const person = {
   name: "Ajay",
   age: 22,
@@ -91,7 +91,7 @@ const person = {
 
 You can access individual properties of an object by their key using dot notation or bracket notation. For example:
 
-```js title="index.js"
+```js title="JavaScript"
 const person = {
   name: "Ajay",
   age: 22,
@@ -107,7 +107,7 @@ console.log(person["address"]["city"]); // Mandsaur
 
 You can also modify object properties by assigning a new value to their key. For example:
 
-```js title="index.js"
+```js title="JavaScript"
 const person = {
   name: "Ajay",
   age: 22,
@@ -127,7 +127,7 @@ console.log(person); // {name: 'Ajay', age: 23, address: {city: 'Indore', state:
 
 You can iterate over the elements of an array or the properties of an object using loops. For arrays, you can use a for loop or a forEach method. For example:
 
-```js title="index.js"
+```js title="JavaScript"
 const numbers = [1, 2, 3, 4, 5];
 
 // Using a for loop
@@ -143,7 +143,7 @@ numbers.forEach(function (number) {
 
 For objects, you can use a `for...in` loop to iterate over the properties. For example:
 
-```js title="index.js"
+```js title="JavaScript"
 const person = {
   name: "Ajay",
   age: 22,

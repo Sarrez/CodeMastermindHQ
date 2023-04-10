@@ -14,7 +14,7 @@ To declare a function in JavaScript, you use the `function` keyword, followed by
 
 Here is an example of a function that adds two numbers together:
 
-```js title="index.js"
+```js title="JavaScript"
 function addNumbers(num1, num2) {
   return num1 + num2;
 }
@@ -22,7 +22,7 @@ function addNumbers(num1, num2) {
 
 To call a function, you simply use the function name, followed by a set of parentheses. Inside the parentheses, you can pass in any arguments that the function expects. Here is an example of how to call the `addNumbers` function:
 
-```js
+```js title="JavaScript"
 let result = addNumbers(5, 10);
 console.log(result); // Output: 15
 ```
@@ -37,7 +37,7 @@ Function return values are the values that a function sends back to the code tha
 
 **Function scope** refers to the accessibility of variables within a function. Variables that are declared inside a function are only accessible within that function. This means that they cannot be accessed from outside the function. Here is an example:
 
-```js title="index.js"
+```js title="JavaScript"
 function myFunction() {
   let myVariable = "Hello";
   console.log(myVariable); // Output: Hello
@@ -51,7 +51,7 @@ In this example, `myVariable` is only accessible within the `myFunction` functio
 
 **Closures** are a way of preserving the value of a variable even after the function that created it has finished executing. This is achieved by defining a function inside another function, and returning the inner function from the outer function. Here is an example:
 
-```js title="index.js"
+```js title="JavaScript"
 function outerFunction() {
   let myVariable = "Hello";
 
@@ -72,7 +72,7 @@ In this example, `outerFunction` returns `innerFunction`, which still has access
 
 In addition to named functions, JavaScript also allows you to create anonymous functions. An anonymous function is a function without a name, and is typically used as a callback function or as an argument to another function. Here is an example:
 
-```js title="index.js"
+```js title="JavaScript"
 let addNumbers = function (num1, num2) {
   return num1 + num2;
 };
@@ -85,7 +85,7 @@ In this example, we are creating an anonymous function and assigning it to the `
 
 Arrow functions are a shorthand way of creating anonymous functions, and were introduced in ES6. Here is an example:
 
-```js title="index.js"
+```js title="JavaScript"
 let addNumbers = (num1, num2) => num1 + num2;
 
 let result = addNumbers(5, 10);
@@ -102,7 +102,7 @@ A higher order function is a function that takes one or more functions as argume
 
 Here is an example of a higher order function:
 
-```js title="index.js"
+```js title="JavaScript"
 function higherOrderFunction(callback) {
   let result = 0;
 

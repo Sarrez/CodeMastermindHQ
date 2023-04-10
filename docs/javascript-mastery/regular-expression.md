@@ -14,13 +14,13 @@ In JavaScript, you can create a regular expression using the `RegExp` object or 
 
 Here's an example of using the `RegExp` object:
 
-```js title="index.is"
+```js title="JavaScript"
 const regex = new RegExp("hello");
 ```
 
 And here's an example of using the literal syntax:
 
-```js title="index.is"
+```js title="JavaScript"
 const regex = /hello/;
 ```
 
@@ -34,7 +34,7 @@ The `test()` method returns a boolean value indicating whether the pattern match
 
 Here's an example:
 
-```js title="index.js"
+```js title="JavaScript"
 const regex = /hello/;
 const str = "Hello, World!";
 const result = regex.test(str);
@@ -49,7 +49,7 @@ The `match()` method returns an array of all matches found in the string. If the
 
 Here's an example:
 
-```js title="index.js"
+```js title="JavaScript"
 const regex = /hello/;
 const str = "Hello, World!";
 const result = str.match(regex);
@@ -60,7 +60,7 @@ In this example, the `match()` method returns `null` because the string `"Hello,
 
 You can also use regular expression flags to modify the behavior of the regular expression. For example, the `i` flag makes the regular expression case-insensitive. Here's an example:
 
-```js title="index.js"
+```js title="JavaScript"
 const regex = /hello/i;
 const str = "Hello, World!";
 const result = regex.test(str);
@@ -77,7 +77,7 @@ Regular expressions are incredibly versatile and can be used for a wide range of
 
 Regular expressions can be used to validate user input, such as email addresses, phone numbers, or passwords. For example, you could use the following regular expression to validate an email address:
 
-```js title="index.js"
+```js title="JavaScript"
 const regex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 ```
 
@@ -93,7 +93,7 @@ This regular expression checks that the string:
 
 Regular expressions can be used to extract specific information from text. For example, you could use the following regular expression to extract all the links from an HTML document:
 
-```js title="index.js"
+```js title="JavaScript"
 const regex = /<a\s+(?:[^>]*?\s+)?href=(["'])(.*?)\1/g;
 const str =
   '<html><body><a href="https://www.google.com">Google</a><a href="https://www.apple.com">Apple</a></body></html>';
@@ -111,7 +111,7 @@ This regular expression matches any `<a>` tag that contains an `href` attribute 
 
 Regular expressions can be used to replace specific patterns in a string with a new value. For example, you could use the following regular expression to replace all instances of "color" with "colour" in a string:
 
-```js title="index.js"
+```js title="JavaScript"
 const regex = /color/g;
 const str = "This color is my favorite color.";
 const newStr = str.replace(regex, "colour");

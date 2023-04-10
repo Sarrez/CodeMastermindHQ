@@ -24,7 +24,7 @@ There are many different types of events that can occur in the browser. Here are
 
 To register an event listener in JavaScript, you use the `addEventListener()` method on an element. This method takes two arguments: the name of the event to listen for, and the function to call when the event occurs.
 
-```js title="index.js"
+```js title="JavaScript"
 const element = document.getElementById("my-element");
 
 element.addEventListener("click", function () {
@@ -38,7 +38,7 @@ In this example, we use `getElementById()` to get a reference to an element in t
 
 When an event occurs, the function that was registered as the event listener is called. You can access information about the event inside the function using the `event` object.
 
-```js title="index.js"
+```js title="JavaScript"
 const button = document.getElementById("my-button");
 
 button.addEventListener("click", function (event) {
@@ -53,11 +53,11 @@ In this example, we register an event listener for a button click event. The fun
 
 Some events have default behavior that you may want to prevent. For example, clicking on a link will navigate to a new page by default. You can prevent this behavior by calling the `preventDefault()` method on the event object.
 
-```html title="index.html"
+```html title="HTML"
 <a href="https://google.com" id="my-link">Go to Google</a>
 ```
 
-```js title="index.js"
+```js title="JavaScript"
 const link = document.getElementById("my-link");
 
 link.addEventListener("click", function (event) {
@@ -72,13 +72,13 @@ In this example, we register an event listener for a link click event. The funct
 
 When an event occurs on an element, it will "bubble up" through the ancestor elements of that element. For example, if a button is clicked, the click event will be triggered on the button first, and then on its parent element, and so on, until it reaches the root element of the document.
 
-```html title="index.html"
+```html title="HTML"
 <div id="parent">
   <button id="child">Click me</button>
 </div>
 ```
 
-```js title="index.js"
+```js title="JavaScript"
 const parent = document.getElementById("parent");
 const child = document.getElementById("child");
 
