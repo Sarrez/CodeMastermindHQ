@@ -56,30 +56,16 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      keywords: [
-        "code",
-        "coding",
-        "Software development",
-        "programming",
-        "web development",
-        "JavaScript",
-        "React",
-        "Node.js",
-        "Full stack development",
-        "MERN stack",
-        "Web development tutorials",
-        "Coding tutorials",
-        "Learning to code",
-        "Code bootcamp",
-        "Code mentorship",
-        "Code community",
-        "MongoDB",
-        "Express.js",
-        "HTML",
-        "CSS",
-        "Java",
-        "DSA",
+      metadata: [
+        {
+          name: "keywords",
+          content:
+            "Java, cooking, Express.js, HTML, CSS, MERN stack, MongoDB, Code community, Code mentorship, Code bootcamp, Learning to code, Coding tutorials, Web development tutorials, blog, code, coding, Software development, programming, web development, JavaScript, React,Node.js, Full stack development,DSA",
+        },
       ],
+
+      // This would become <meta name="keywords" content="cooking, blog"> in the generated HTML
+
       twitter: {
         site: "@CodeMastermindHQ",
         creator: "@AJAYDHA27250016",
@@ -111,6 +97,35 @@ const config = {
             position: "right",
           },
         ],
+        // algolia: {
+        //   // The application ID provided by Algolia
+        //   appId: "YOUR_APP_ID",
+
+        //   // Public API key: it is safe to commit it
+        //   apiKey: "YOUR_SEARCH_API_KEY",
+
+        //   indexName: "YOUR_INDEX_NAME",
+
+        //   // Optional: see doc section below
+        //   contextualSearch: true,
+
+        //   // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+        //   externalUrlRegex: "external\\.com|domain\\.com",
+
+        //   // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
+        //   replaceSearchResultPathname: {
+        //     from: "/docs/", // or as RegExp: /\/docs\//
+        //     to: "/",
+        //   },
+
+        //   // Optional: Algolia search parameters
+        //   searchParameters: {},
+
+        //   // Optional: path for search page that enabled by default (`false` to disable it)
+        //   searchPagePath: "search",
+
+        //   //... other Algolia params
+        // },
       },
       footer: {
         style: "dark",
