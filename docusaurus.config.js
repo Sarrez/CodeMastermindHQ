@@ -146,8 +146,8 @@ const config = {
                 to: "/",
               },
               {
-                label: "Coding",
-                to: "/",
+                label: "Js Interview Q/A",
+                to: "https://javascript-mastery.github.io/javascript-mastery/Js-Interview/",
               },
             ],
           },
