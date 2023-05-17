@@ -33,6 +33,36 @@ const FeatureList = [
       </>
     ),
   },
+  {
+    title: "Daily Coding",
+    Svg: require("@site/static/img/focus-3.svg").default,
+    description: (
+      <>
+        Daily Coding is at the core of our website, providing cutting-edge
+        functionality and performance.
+      </>
+    ),
+  },
+  {
+    title: "Developers",
+    Svg: require("@site/static/img/devloper.svg").default,
+    description: (
+      <>
+        Developers is at the core of our website, providing codes
+        functionality and performance.
+      </>
+    ),
+  },
+  {
+    title: "Learning",
+    Svg: require("@site/static/img/learning.svg").default,
+    description: (
+      <>
+        Learning is at the core of our life, providing skills
+        for better knowledge.
+      </>
+    ),
+  },
 ];
 
 function Feature({ Svg, title, description }) {
