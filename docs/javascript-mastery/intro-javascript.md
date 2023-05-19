@@ -19,9 +19,7 @@ sidebar_position: 1
      - JavaScript can handle asynchronous operations, such as making HTTP requests or fetching data from servers.
      - It supports object-oriented programming paradigms.
      - JavaScript has a wide range of built-in objects and functions, providing a rich set of functionalities.
-     - It has a vibrant and active community, with numerous libraries and frameworks available.
-     - JavaScript is continuously evolving, with new features and updates introduced through ECMAScript specifications.
-
+     
 
    - **Role and importance of JavaScript in web development:**
      - JavaScript is a fundamental language for front-end web development, enabling client-side interactivity and dynamic content.
@@ -77,7 +75,7 @@ sidebar_position: 1
    - **Basics of writing JavaScript code:**
      - Variables and data types:
        ```javascript title="script.js"
-       var name = "John";
+       var name = "Ajay";
        var age = 25;
        ```
      - Operators and control flow structures:
@@ -141,7 +139,7 @@ sidebar_position: 1
    - **Game development:**
      - Leveraging libraries and frameworks like Phaser or Three.js to develop browser-based or mobile games.
    - **Internet of Things (IoT):**
-     - Controlling and interacting with IoT devices using JavaScript and frameworks like Johnny-Five.
+     - Controlling and interacting with IoT devices using JavaScript and frameworks like Ajayny-Five.
 
 ### 6. Advantages of JavaScript:
    - Easy to learn and use with a syntax familiar to web developers.

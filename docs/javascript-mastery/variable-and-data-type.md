@@ -26,7 +26,7 @@ In JavaScript, variables are used to store and manipulate data. A variable is a 
     - **Symbol**: Represents unique and immutable values. Example: `let symbol = Symbol();`
 
   - **Composite Data Types**:
-    - **Object**: Represents a collection of properties and methods. Example: `let person = { name: "John", age: 25 };`
+    - **Object**: Represents a collection of properties and methods. Example: `let person = { name: "Ajay", age: 25 };`
     - **Array**: Represents an ordered list of values. Example: `let numbers = [1, 2, 3];`
 
 ### 3. Type Coercion:
@@ -63,7 +63,7 @@ In JavaScript, variables are used to store and manipulate data. A variable is a 
 - Variable names in JavaScript are case-sensitive and can start with a letter, underscore, or dollar sign.
 - Example:
   ```javascript title="script.js"
-  let firstName = "John";
+  let firstName = "Ajay";
   const MAX_VALUE = 100;
   ```
 
@@ -105,7 +105,7 @@ console.log(symbol);
 
 // Object
 let person = {
-  name: "John",
+  name: "Ajay",
   age: 25,
   isStudent: true,
 };

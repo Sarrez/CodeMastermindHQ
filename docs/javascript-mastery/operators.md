@@ -83,11 +83,11 @@ console.log(b >> 1);   // Output: 1 (Right shift)
 String operators include the concatenation operator (+) used for joining two or more strings together.
 
 ```javascript title="script.js"
-let firstName = "John";
+let firstName = "Ajay";
 let lastName = "Doe";
 
 let fullName = firstName + " " + lastName;
-console.log(fullName);    // Output: John Doe
+console.log(fullName);    // Output: Ajay Doe
 ```
 
 ### 7. Increment and Decrement Operators:
@@ -116,7 +116,7 @@ console.log(isAdult);    // Output: Adult
 The typeof operator is used to determine the data type of a value or variable.
 
 ```javascript title="script.js"
-let name = "John";
+let name = "Ajay";
 console.log(typeof name);    // Output: string
 
 let age = 25;
