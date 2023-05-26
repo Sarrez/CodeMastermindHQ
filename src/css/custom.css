@@ -156,17 +156,4 @@ pre  {
   border-top-left-radius: 0px;
   border-top-right-radius: 0px;
 }
-footer{ 
-  background: linear-gradient(315deg, rgb(146, 17, 137) 5%, rgb(231, 211, 28) 35%, rgb(67, 175, 73) 45%, rgb(255, 29, 29) 90%);
- 
-}
 
-footer a{
-  color: #ff1719;
-  text-shadow: 1px 1px #000;
-  font-weight: bold;
- }
-footer a:hover{
-  color: #2ebe46;
-  text-decoration: none;
-}
