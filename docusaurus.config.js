@@ -9,6 +9,7 @@ const config = {
   title: "CodeMastermindHQ",
   tagline: "Experience the power of real-world coding with CodeMastermindHQ.",
   url: "https://codemastermindhq.vercel.app/",
+  // url: "http://localhost:3000/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -72,6 +73,15 @@ const config = {
         creator: "@AJAYDHA27250016",
         image: "img/log.png",
       },
+
+      algolia:{
+        appId: "3EH6TJCID4",
+        apiKey: "ad19335c8a5507b62282984061a68689",
+        indexName: "CodeMasterMindHQ",
+        contextualSearch: true,
+        placeholder:'Search in My Website',
+      },
+
       navbar: {
         title: "CodeMastermindHQ",
         logo: {
