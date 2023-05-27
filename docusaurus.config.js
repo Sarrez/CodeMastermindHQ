@@ -55,6 +55,8 @@ const config = {
     ],
   ],
 
+  
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -67,6 +69,23 @@ const config = {
       ],
 
       // This would become <meta name="keywords" content="cooking, blog"> in the generated HTML
+
+      // liveCodeBlock: {
+      //   /**
+      //    * The position of the live playground, above or under the editor
+      //    * Possible values: "top" | "bottom"
+      //    */
+      //   playgroundPosition: 'bottom',
+      // },
+      
+      announcementBar: {
+        id: 'announcementBar',
+        content:`⭐️ If you like CodeMasterMindHQ, give it a star on <a target="_blank" href="https://github.com/Ajay-Dhangar/CodeMastermindHQ">GitHub</a> and join us on <a target="_blank" href="https://www.linkedin.com/groups/14232119/">LinkedIn</a> ⭐️`,
+       
+          backgroundColor: '#ff1f21',
+        textColor: '#f1f1f1',
+        isCloseable: true,
+      },
 
       twitter: {
         site: "@CodeMastermindHQ",
@@ -94,9 +113,81 @@ const config = {
             docId: "intro",
             position: "left",
             label: "Tutorial",
-          },
+          },   
+          
+          // {
+          //   to: 'docs/intro',
+          //   // Only one of "to" or "href" should be used
+          //   // href: 'https://www.facebook.com',
+          //   label: 'Introduction',
+          //   // Only one of "label" or "html" should be used
+          //   // html: '<b>Introduction</b>'
+          //   position: 'left',
+          //   activeBaseRegex: 'docs/(next|v8)',
+          //   target: '_blank',
+          // },
+
+         
+
+          // {
+          //   to: "/projects", // The external URL
+          //   label: "Projects", // The link label
+          //   position: "left",            
+          // },
 
           { to: "/blog", label: "Blog", position: "left" },
+
+
+
+          // {
+          //   type: 'docsVersionDropdown',
+          //   position: 'right',
+          // },
+          // {
+          //   type: 'localeDropdown',
+          //   position: 'right',
+          // },
+
+            
+          {
+            type: 'dropdown',
+            label: 'Connect With Me',
+            position: 'right',
+            items: [
+              
+              {
+                to: 'https://ajay-dhangar.github.io/portfolio/',
+                label: 'My Portfolio Site',
+              },
+              
+              {
+                to: 'https://www.youtube.com/@Ajay-Dhangar',
+                label: 'YouTube',
+              },
+              {
+                to: 'https://stackoverflow.com/users/18530900/ajay-dhangar',
+                label: 'StackOverflow',
+              },
+              {
+                to: 'https://www.linkedin.com/in/ajay-dhangar-bb89b4227/',
+                label: 'LinkedIn',
+              },
+              {
+                to: 'https://twitter.com/AJAYDHA27250016',
+                label: 'Twitter',
+              },
+              {
+                to: 'https://github.com/Ajay-Dhangar',
+                label: 'GitHub',
+              },
+              {
+                to: 'https://www.instagram.com/_ajay.dhangar/',
+                label: 'Instagram',
+              },
+              
+            ],
+          },
+          
 
           {
             href: "https://github.com/Ajay-Dhangar/CodeMastermindHQ",
@@ -109,6 +200,8 @@ const config = {
             position: "right",
           },
         ],
+
+        
         // algolia: {
         //   // The application ID provided by Algolia
         //   appId: "YOUR_APP_ID",
