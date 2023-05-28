@@ -41,6 +41,7 @@ const config = {
           editUrl:
             "https://github.com/Ajay-Dhangar/CodeMastermindHQ/blob/main/packages/create-docusaurus/templates/shared/",
         },
+        
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
@@ -134,6 +135,11 @@ const config = {
           //   label: "Projects", // The link label
           //   position: "left",            
           // },
+
+          {
+            label: 'DSA',
+            to: '/docs/dsa/intro-dsa',
+          },
 
           { to: "/blog", label: "Blog", position: "left" },
 
@@ -308,6 +314,8 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+
+   
 };
 
 module.exports = config;
