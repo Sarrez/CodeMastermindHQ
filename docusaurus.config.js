@@ -128,7 +128,30 @@ const config = {
           //   target: '_blank',
           // },
 
-         
+          {
+            type: 'dropdown',
+            label: '🌐 Web Dev',
+            position: 'left',
+            items: [              
+              {
+                to: 'docs/category/html---mastery',
+                label: '💻 HTML Mastery 🚀',
+              },
+              {
+                to: 'docs/category/css---mastery',
+                label: '🎨 CSS Mastery 🚀',
+              },
+              {
+                to: 'docs/category/javascript-mastery',
+                label: '🔥 JavaScript Mastery 🚀',
+              },
+              {
+                to: 'docs/category/react---mastery',
+                label: '⚛️ React Mastery 🚀',
+              },
+              
+            ]
+          },
 
           // {
           //   to: "/projects", // The external URL
