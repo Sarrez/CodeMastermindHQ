@@ -160,8 +160,23 @@ const config = {
           // },
 
           {
+            type: 'dropdown',
             label: '📓 DSA',
-            to: '/docs/dsa/intro-dsa',
+            position: 'left',
+            items: [              
+              {
+                to: '/docs/dsa/intro-algorithms',
+                label: '1️⃣ Algorithms',
+              },
+              {
+                to: '/docs/dsa/array',
+                label: '2️⃣ Arrays',
+              },
+              {
+                to: '/docs/dsa/string',
+                label: '3️⃣ Strings',
+              },
+            ]
           },
 
           { to: "/blog", label: "Blog", position: "left" },
