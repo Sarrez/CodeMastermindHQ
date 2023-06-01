@@ -113,7 +113,7 @@ const config = {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "Tutorial",
+            label: "📚 Tutorial",
           },   
           
           // {
@@ -137,7 +137,7 @@ const config = {
           // },
 
           {
-            label: 'DSA',
+            label: '📓 DSA',
             to: '/docs/dsa/intro-dsa',
           },
 
@@ -163,32 +163,32 @@ const config = {
               
               {
                 to: 'https://ajay-dhangar.github.io/portfolio/',
-                label: 'My Portfolio Site',
+                label: '🌐 My Portfolio Site',
               },
               
               {
                 to: 'https://www.youtube.com/@Ajay-Dhangar',
-                label: 'YouTube',
+                label: '🔥 YouTube',
               },
               {
                 to: 'https://stackoverflow.com/users/18530900/ajay-dhangar',
-                label: 'StackOverflow',
+                label: '🅢 StackOverflow',
               },
               {
                 to: 'https://www.linkedin.com/in/ajay-dhangar-bb89b4227/',
-                label: 'LinkedIn',
+                label: '💼 LinkedIn',
               },
               {
                 to: 'https://twitter.com/AJAYDHA27250016',
-                label: 'Twitter',
+                label: '🐦 Twitter',
               },
               {
                 to: 'https://github.com/Ajay-Dhangar',
-                label: 'GitHub',
+                label: '🐙 GitHub',
               },
               {
                 to: 'https://www.instagram.com/_ajay.dhangar/',
-                label: 'Instagram',
+                label: '📸 Instagram',
               },
               
             ],
@@ -197,12 +197,12 @@ const config = {
 
           {
             href: "https://github.com/Ajay-Dhangar/CodeMastermindHQ",
-            label: "GitHub",
+            label: "📂 GitHub",
             position: "right",
           },
           {
             href: "https://github.com/sponsors/Ajay-Dhangar",
-            label: "Sponsor this project",
+            label: "💝 Sponsor",
             position: "right",
           },
         ],
