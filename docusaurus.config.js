@@ -169,11 +169,11 @@ const config = {
                 label: '1️⃣ Algorithms',
               },
               {
-                to: '/docs/dsa/array',
+                to: 'docs/category/arrays',
                 label: '2️⃣ Arrays',
               },
               {
-                to: '/docs/dsa/string',
+                to: 'docs/category/strings',
                 label: '3️⃣ Strings',
               },
             ]

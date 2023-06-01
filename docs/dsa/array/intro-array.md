@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 # Array-based Problems
@@ -8,7 +8,7 @@ sidebar_position: 3
 
 ## Arrays:
 
-![Single Dimensional Array](img/single-dimensional-array.gif)
+![Single Dimensional Array](./../img/single-dimensional-array.gif)
 
 An array is a data structure that stores a fixed-size sequential collection of elements of the same type. It allows you to store multiple values of the same data type under a single variable name. Each value in the array is called an element, and it is identified by its index, which represents its position in the array. Arrays are widely used in programming as they provide efficient ways to store and access elements.
 
