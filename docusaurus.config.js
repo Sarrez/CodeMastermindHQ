@@ -179,7 +179,7 @@ const config = {
             ]
           },
 
-          { to: "/blog", label: "Blog", position: "left" },
+          { to: "/blog", label: "📰 Blog", position: "left" },
 
 
 
