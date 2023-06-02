@@ -220,14 +220,14 @@ Please note that the `<isindex>` tag is considered obsolete and is not recommend
 
 ### Starting with the letter "N"
 
-1 `<nav>`: Defines a section of navigation links.
-2 `<nobr>`: Specifies that the contained text should not wrap.
-3 `<noembed>`: Specifies fallback content for browsers that do not support embedded content.
-4 `<noscript>`: Defines content to be displayed if a script is not supported or enabled.
-5 `<noframes>`: Defines content to be displayed if a browser does not support frames.
-6 `<nolayer>`: Defines content to be displayed if a browser does not support layers.
-7 `<nosave>`: Prevents the browser from saving data entered into form fields.
-8 `<note>`: Represents a note or annotation.
+1. `<nav>`: Defines a section of navigation links.
+2. `<nobr>`: Specifies that the contained text should not wrap.
+3. `<noembed>`: Specifies fallback content for browsers that do not support embedded content.
+4. `<noscript>`: Defines content to be displayed if a script is not supported or enabled.
+5. `<noframes>`: Defines content to be displayed if a browser does not support frames.
+6. `<nolayer>`: Defines content to be displayed if a browser does not support layers.
+7. `<nosave>`: Prevents the browser from saving data entered into form fields.
+8. `<note>`: Represents a note or annotation.
 
 Please note that some tags, like `<nolayer>` and `<note>`, may not be widely supported or deprecated in modern HTML standards. It's always recommended to refer to the official HTML documentation and browser compatibility guides for up-to-date information on HTML tags and their proper usage.
 
