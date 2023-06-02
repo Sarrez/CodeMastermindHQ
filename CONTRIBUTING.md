@@ -96,9 +96,7 @@ To contribute code to CodeMastermindHQ, follow these steps:
    git push origin my-feature
    ```
 
-2. Open a pull request on the original repository by visiting [https://github.com/Ajay-Dhangar/CodeMastermindHQ](https
-
-://github.com/Ajay-Dhangar/CodeMastermindHQ) and clicking on the "New pull request" button.
+2. Open a pull request on the original repository by visiting [https://github.com/Ajay-Dhangar/CodeMastermindHQ](https://github.com/Ajay-Dhangar/CodeMastermindHQ) and clicking on the "New pull request" button.
 3. Provide a clear title and description for your pull request, explaining the changes you made and their purpose.
 4. Reference any relevant issues or feature requests in your pull request description.
 
