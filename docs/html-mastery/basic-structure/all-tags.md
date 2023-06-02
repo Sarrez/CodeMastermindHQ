@@ -206,10 +206,40 @@ Please note that the `<isindex>` tag is considered obsolete and is not recommend
 
 ### Starting with the letter "M"
 
+1. `<mark>`: Represents marked or highlighted text.
+2. `<main>`: Represents the main content of a document.
+3. `<marquee>`: Displays scrolling text or images.
+4. `<menuitem>`: Defines a command/menu item within a menu list.
+5. `<meta>`: Specifies metadata about an HTML document.
+6. `<meter>`: Represents a scalar measurement within a known range.
+7. `<multicol>`: Defines a multi-column layout.
+8. `<map>`: Defines an image map for use with an image.
+9. `<math>`: Renders mathematical equations.
+10. `<meta>`: Specifies metadata about an HTML document.
+11. `<menu>`: Represents a list/menu of commands or options.
+
 ### Starting with the letter "N"
+
+1 `<nav>`: Defines a section of navigation links.
+2 `<nobr>`: Specifies that the contained text should not wrap.
+3 `<noembed>`: Specifies fallback content for browsers that do not support embedded content.
+4 `<noscript>`: Defines content to be displayed if a script is not supported or enabled.
+5 `<noframes>`: Defines content to be displayed if a browser does not support frames.
+6 `<nolayer>`: Defines content to be displayed if a browser does not support layers.
+7 `<nosave>`: Prevents the browser from saving data entered into form fields.
+8 `<note>`: Represents a note or annotation.
+
+Please note that some tags, like `<nolayer>` and `<note>`, may not be widely supported or deprecated in modern HTML standards. It's always recommended to refer to the official HTML documentation and browser compatibility guides for up-to-date information on HTML tags and their proper usage.
 
 ### Starting with the letter "O"
 
+1. `<object>`: Embeds an external resource, such as an image, video, or audio, into an HTML document.
+2. `<ol>`: Represents an ordered (numbered) list.
+3. `<optgroup>`: Groups related options in a select element.
+4. `<option>`: Represents an option within a select element or datalist.
+5. `<output>`: Represents the result of a calculation or user action.
+
+Please note that these are just a few HTML tags starting with the letter "O." There are more tags available in HTML, but these are some commonly used ones.
 ### Starting with the letter "P"
 
 1. `<p>`: The `<p>` tag is used to define a paragraph in HTML. It represents a block-level element that separates content into distinct paragraphs. By default, browsers add some vertical space before and after paragraphs.
