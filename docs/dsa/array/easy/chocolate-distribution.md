@@ -4,6 +4,8 @@ sidebar_position: 6
 
 # 5. Chocolate Distribution Problem
 
+![Chocolate Distribution Problem](./img/Chocolate%20Distribution.gif)
+
 ## Description:
 In this tutorial, we will explore the Chocolate Distribution Problem, a common problem in algorithmic interviews and coding competitions. The problem involves distributing chocolates among a group of students, aiming to minimize the difference between the chocolates' packet with the most and the least number of chocolates. We will provide a step-by-step explanation of the problem, discuss different algorithms and approaches to solve it, analyze their time and space complexities, and present a Java solution with a detailed explanation.
 

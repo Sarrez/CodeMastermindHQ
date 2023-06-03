@@ -4,6 +4,8 @@ sidebar_position: 8
 
 # 7. Pascal's Triangle
 
+![Pascal's Triangle](./img/PascalTriangleAnimated.gif)
+
 ## Description:
 In this tutorial, we will explore Pascal's Triangle, a fascinating mathematical construct that reveals the coefficients of the binomial expansion. We will delve into the algorithms and approaches to generate Pascal's Triangle, discuss its properties and applications, and provide a step-by-step solution in Java. By the end of this tutorial, you will have a thorough understanding of Pascal's Triangle and its various uses.
 

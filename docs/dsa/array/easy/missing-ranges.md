@@ -4,6 +4,8 @@ sidebar_position: 17
 
 # 16. Missing Ranges
 
+![Missing Ranges](./img/Missing%20Ranges.gif)
+
 ## Description: 
 This tutorial will guide you through the process of solving the "Missing Ranges" problem, where you are given a sorted array of integers and need to determine the missing intervals within a specified range. You will learn the algorithmic approach, step-by-step implementation in Java, time and space complexity analysis, and a visual representation in the form of a flowchart.
 

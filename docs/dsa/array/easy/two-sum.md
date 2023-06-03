@@ -4,6 +4,8 @@ sidebar_position: 12
 
 # 11. Two Sum
 
+![Two Sum](./img/twosum.gif)
+
 ## Description:
 In this tutorial, we will explore the popular "Two Sum" problem, where given an array of integers and a target value, we need to find two numbers in the array that add up to the target. We will discuss multiple approaches to solve this problem efficiently and provide a detailed explanation along with the solution in Java.
 

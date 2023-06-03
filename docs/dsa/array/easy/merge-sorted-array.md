@@ -4,6 +4,8 @@ sidebar_position: 10
 
 # 9. Merge Sorted Array
 
+![Merge Sorted Array](./img/Merge-sort-example.gif)
+
 ## Description:
 In this tutorial, we will learn how to merge two sorted arrays efficiently into a single sorted array. We will explore different approaches, understand the algorithms involved, analyze the time and space complexities, and provide a step-by-step solution in Java.
 

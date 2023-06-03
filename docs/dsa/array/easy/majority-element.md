@@ -4,6 +4,8 @@ sidebar_position: 11
 
 # 10. Finding the Majority Element in an Array
 
+![Finding the Majority Element in an Array](./img/Finding%20the%20Majority%20Element.gif)
+
 ## Description:
 In this tutorial, we will explore how to find the majority element in an array. The majority element is defined as the element that appears more than n/2 times in the array, where n is the size of the array. We will discuss the algorithmic approach to solve this problem, analyze its time and space complexity, and provide a step-by-step solution in Java.
 
