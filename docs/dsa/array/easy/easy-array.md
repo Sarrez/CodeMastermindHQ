@@ -10,7 +10,7 @@ sidebar_position: 1
    
    | Problem | Solution | Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | [LeetCode](https://leetcode.com/discuss/interview-question/3593060/Maximum-and-Minimum-Element-in-an-Array), | [LeetCode](https://leetcode.com/discuss/interview-question/3593060/Maximum-and-Minimum-Element-in-an-Array/1915347) |Cooming Soon... | [CodeMasterMinmdHQ](https://codemastermindhq.vercel.app/docs/dsa/array/easy/max-min-arr) |
+   | [LeetCode](https://leetcode.com/discuss/interview-question/3593060/Maximum-and-Minimum-Element-in-an-Array) | [LeetCode](https://leetcode.com/discuss/interview-question/3593060/Maximum-and-Minimum-Element-in-an-Array/1915347) |Cooming Soon... | [CodeMasterMinmdHQ](https://codemastermindhq.vercel.app/docs/dsa/array/easy/max-min-arr) |
 ### 2. Reverse the Array 
    
    | Problem | Solution |Video |Tutorial |
@@ -21,79 +21,79 @@ sidebar_position: 1
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/maximum-subarray/) |[LeetCode](https://leetcode.com/problems/maximum-subarray/solutions/2671118/runtime-1ms-and-faster-100-in-java-easy-and-understanding-solution-in-java/) |Cooming Soon... | [CodeMasterMindHQ](https://codemastermindhq.vercel.app/docs/dsa/array/easy/max-sub-array)|
 
 ### 4. Contains Duplicate 
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/contains-duplicate/) |[LeetCode](https://leetcode.com/problems/contains-duplicate/solutions/2671057/easy-and-very-understanding-solution-in-java/) |Cooming Soon... | [CodeMasterMindHQ](https://codemastermindhq.vercel.app/docs/dsa/array/easy/contains-duplicate-array)|
 
 ### 5. Chocolate Distribution Problem 
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | LeetCode, [HackerEarth](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/chocolate-distribution-709f61ec/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 ### 6. Search in Rotated Sorted Array 
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 ### 7. Pascal's Triangle 
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/pascals-triangle/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 ### 8. Best Time to Buy and Sell Stock 
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 ### 9.  Merge Sorted Array 
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 ### 10. Majority Element
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/majority-element/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 ### 11. Two Sum
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/two-sum/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 ### 12. Remove Duplicates from Sorted Array
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 ### 13. Plus One
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/plus-one/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 ### 14. Convert Sorted Array to Binary Search Tree
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 ### 15. Single Number
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   |[LeetCode](https://leetcode.com/problems/single-number/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 ### 16. Missing Ranges
 
@@ -111,17 +111,17 @@ sidebar_position: 1
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/missing-ranges/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 ### 19. Move Zeroes
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/move-zeroes/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 ### 20. Intersection of Two Arrays II
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
