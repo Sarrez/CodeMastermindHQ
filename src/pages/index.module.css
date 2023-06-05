@@ -9,11 +9,17 @@
   position: relative;
   overflow: hidden;
   display: block;
-  /* background-image: url('/static/img/banner.png'); */
-  background: linear-gradient(315deg, rgb(146, 17, 137) 3%, rgb(231, 211, 28) 38%, rgb(67, 175, 73) 68%, rgb(255, 29, 29) 98%);
- animation: gradient 15s ease infinite;
- background-size: 400% 400%;
- background-attachment: fixed;
+  background-image: url('/static/img/work.gif');
+
+  /* background-image: url('/static/img/space.gif'); */
+
+
+  /* background: linear-gradient(315deg, rgb(146, 17, 137) 3%, rgb(231, 211, 28) 38%, rgb(67, 175, 73) 68%, rgb(255, 29, 29) 98%); */
+ 
+ /* animation: gradient 15s ease infinite; */
+ background-size: 100% 100%;
+ /* background-size: 400% 400%; */
+ /* background-attachment: fixed; */
 }
 @keyframes gradient {
   0% {
@@ -37,8 +43,4 @@
   display: flex;
   align-items: center;
   justify-content: center;
-}
-h1{
-  text-shadow: 4px 4px 8px rgba(253, 253, 253, 0.884);
-   
 }
