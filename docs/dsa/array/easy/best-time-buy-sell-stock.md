@@ -18,9 +18,9 @@ Learn how to determine the maximum profit that can be obtained by buying and sel
 The approach involves keeping track of the minimum stock price encountered so far and calculating the maximum profit that can be obtained by selling the stock at each subsequent day. By finding the minimum price and calculating the difference between the current price and the minimum price, we can update the maximum profit if necessary.
 
 ## Complexity:
-**Time Complexity:** O(n), where n is the number of elements in the stock prices array.
+**Time Complexity:** `O(n)`, where n is the number of elements in the stock prices array.
 
-**Space Complexity:** O(1), as we only use a constant amount of extra space.
+**Space Complexity:** `O(1)`, as we only use a constant amount of extra space.
 
 ## Flowchart (Structured Form):
 ```
