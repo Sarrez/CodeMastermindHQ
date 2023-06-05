@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+tags: [CodeMasterMindHQ, HTML, HTML Mastry, css, CSS Mastery, javascrpt, JavaScript Mastery, js, react, jsx, node, dsa, data structures and algorithnms, node, mongoDB]
 ---
 
 # Welcome to CodeMasterMindHQ Tutorials!

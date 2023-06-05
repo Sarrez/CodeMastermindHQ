@@ -94,13 +94,7 @@ const config = {
         image: "img/log.png",
       },
 
-      algolia:{
-        appId: "3EH6TJCID4",
-        apiKey: "ad19335c8a5507b62282984061a68689",
-        indexName: "CodeMasterMindHQ",
-        contextualSearch: true,
-        placeholder:'Search in My Website',
-      },
+      
 
       navbar: {
         title: "CodeMastermindHQ",
@@ -179,6 +173,12 @@ const config = {
             ]
           },
 
+          {
+            label: '🏷️ Tags',
+            to: '/docs/tags/',
+            activeBaseRegex: `/docs/tags/`,
+          },
+
           { to: "/blog", label: "📰 Blog", position: "left" },
 
 
@@ -195,7 +195,7 @@ const config = {
             
           {
             type: 'dropdown',
-            label: 'Connect With Me',
+            label: 'Connect',
             position: 'right',
             items: [
               
@@ -350,6 +350,14 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+
+      algolia:{
+        appId: "3EH6TJCID4",
+        apiKey: "ad19335c8a5507b62282984061a68689",
+        indexName: "CodeMasterMindHQ",
+        contextualSearch: false,
+        placeholder:'Search in My Website',
       },
     }),
 

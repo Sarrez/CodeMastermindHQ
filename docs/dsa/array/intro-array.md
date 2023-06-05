@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+tags: [CodeMasterMindHQ, dsa, DataStructure and Algorithms, DSA, Arrays, Array Easy Problem, Array Medium Problem, Array Hard Problem]
 ---
 
 # Array-based Problems

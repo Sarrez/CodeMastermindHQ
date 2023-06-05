@@ -10,70 +10,70 @@ sidebar_position: 1
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/next-permutation/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 
-### 2. Best time to Buy and Sell Stock
+### 2. Best time to Buy and Sell Stock II
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 
 ### 3. Repeat and Missing Number Array
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [GFG](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 
 ### 4. Kth-Largest Element in an Array
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 
 ### 5. Trapping Rain Water
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 
 ### 6. Product of Array Except Self
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 
 ### 7. Maximum Product Subarray
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode ](https://leetcode.com/problems/maximum-product-subarray/)|LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 
 ### 8. Find Minimum in Rotated Sorted Array
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 
 ### 9. Find Pair with Sum in Sorted & Rotated Array
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/description/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 
 ### 10. 3Sum
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/3sum/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 
 ### 11. Container With Most Water

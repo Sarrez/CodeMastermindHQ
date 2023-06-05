@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+tags: [CodeMasterMindHQ, dsa, data structures and algorithnms, Arrays, Strings, Linked List, Stack, Graph]
 ---
 
 # Introduction of DSA

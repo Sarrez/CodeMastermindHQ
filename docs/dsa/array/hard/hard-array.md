@@ -10,7 +10,7 @@ sidebar_position: 1
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/subarray-sums-divisible-by-k/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 
 ### 2. Print all Possible Combinations of r Elements in a Given Array of Size n
@@ -31,14 +31,14 @@ sidebar_position: 1
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/reverse-pairs/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 
 ### 5. Median of Two Sorted Arrays
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 
 

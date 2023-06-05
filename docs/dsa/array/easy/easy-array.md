@@ -99,7 +99,7 @@ sidebar_position: 1
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/missing-ranges/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 ### 17. Contains Duplicate
 
@@ -111,7 +111,7 @@ sidebar_position: 1
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | [LeetCode](https://leetcode.com/problems/missing-ranges/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | [LeetCode](https://leetcode.com/problems/missing-number/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 ### 19. Move Zeroes
 
