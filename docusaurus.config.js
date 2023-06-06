@@ -57,7 +57,6 @@ const config = {
   ],
 
   
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -352,15 +351,29 @@ const config = {
         darkTheme: darkCodeTheme,
       },
 
-      algolia:{
-        appId: "3EH6TJCID4",
-        apiKey: "ad19335c8a5507b62282984061a68689",
-        indexName: "CodeMasterMindHQ",
-        contextualSearch: false,
-        placeholder:'Search in My Website',
+      // algolia:{
+      //   appId: "3EH6TJCID4",
+      //   apiKey: "ad19335c8a5507b62282984061a68689",
+      //   indexName: "CodeMasterMindHQ",
+      //   contextualSearch: false,
+      //   placeholder:'Search in My Website',
+      // },
+
+      algolia: {
+        appId: '1QLDEYVATA',
+        apiKey: 'ad19335c8a5507b62282984061a68689',
+        indexName: 'codemastermindhq',
+        contextualSearch: false
       },
+      docs: {
+        sidebar: {
+          hideable: true,
+        },
+      },
+    
     }),
 
+    
    
 };
 
