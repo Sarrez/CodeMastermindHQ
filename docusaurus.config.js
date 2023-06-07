@@ -359,10 +359,22 @@ const config = {
       //   placeholder:'Search in My Website',
       // },
 
+      // algolia: {
+      //   appId: '1QLDEYVATA',
+      //   apiKey: 'ad19335c8a5507b62282984061a68689',
+      //   indexName: 'codemastermindhq',
+      //   contextualSearch: false
+      // },
+      // docs: {
+      //   sidebar: {
+      //     hideable: true,
+      //   },
+      // },
+      
       algolia: {
         appId: '1QLDEYVATA',
         apiKey: 'ad19335c8a5507b62282984061a68689',
-        indexName: 'codemastermindhq',
+        indexName: 'codemastermindhq1',
         contextualSearch: false
       },
       docs: {
