@@ -372,8 +372,8 @@ const config = {
       // },
       
       algolia: {
-        appId: '1QLDEYVATA',
-        apiKey: 'ad19335c8a5507b62282984061a68689',
+        appId: 'HA7ICP28ZQ',
+        apiKey: 'b7525a0458d7a63f9ac7f09ec036fbf5',
         indexName: 'codemastermindhq1',
         contextualSearch: false
       },
