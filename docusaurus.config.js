@@ -121,6 +121,8 @@ const config = {
           //   target: '_blank',
           // },
 
+          
+
           {
             type: 'dropdown',
             label: '🌐 Web Dev',
@@ -231,17 +233,23 @@ const config = {
             ],
           },
           
-
           {
-            href: "https://github.com/Ajay-Dhangar/CodeMastermindHQ",
-            label: "📂 GitHub",
-            position: "right",
+            type: 'dropdown',
+            label: 'GitHub',
+            position: 'right',
+            items: [              
+              {
+                href: "https://github.com/Ajay-Dhangar/CodeMastermindHQ",
+                label: "📂 Source Code",
+              },
+              {
+                href: "https://github.com/sponsors/Ajay-Dhangar",
+                label: "💝 Sponsor",
+              },
+              
+            ]
           },
-          {
-            href: "https://github.com/sponsors/Ajay-Dhangar",
-            label: "💝 Sponsor",
-            position: "right",
-          },
+          
         ],
 
         
