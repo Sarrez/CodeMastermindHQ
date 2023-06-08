@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Array Easy Problems
@@ -10,24 +10,24 @@ sidebar_position: 1
    
    | Problem | Solution | Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | [LeetCode](https://leetcode.com/discuss/interview-question/3593060/Maximum-and-Minimum-Element-in-an-Array) | [LeetCode](https://leetcode.com/discuss/interview-question/3593060/Maximum-and-Minimum-Element-in-an-Array/1915347) |Cooming Soon... | [CodeMasterMinmdHQ](https://codemastermindhq.vercel.app/docs/dsa/array/easy/max-min-arr) |
+   | [LeetCode](https://leetcode.com/discuss/interview-question/3593060/Maximum-and-Minimum-Element-in-an-Array) | [LeetCode](https://leetcode.com/discuss/interview-question/3593060/Maximum-and-Minimum-Element-in-an-Array/1915347) |Cooming Soon... | CodeMasterMinmdHQ |
 ### 2. Reverse the Array 
    
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | [LeetCode](https://leetcode.com/discuss/interview-question/3593148/Reverse-the-Array) |[LeetCode](https://leetcode.com/discuss/interview-question/3593148/Reverse-the-Array/1915383) |Cooming Soon... | [CodeMasterMindHQ](https://codemastermindhq.vercel.app/docs/dsa/array/easy/reverse-arr)|
+   | [LeetCode](https://leetcode.com/discuss/interview-question/3593148/Reverse-the-Array) |[LeetCode](https://leetcode.com/discuss/interview-question/3593148/Reverse-the-Array/1915383) |Cooming Soon... | CodeMasterMindHQ |
 
 ### 3. Maximum-Subarray (Kadane's Algorithm) 
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | [LeetCode](https://leetcode.com/problems/maximum-subarray/) |[LeetCode](https://leetcode.com/problems/maximum-subarray/solutions/2671118/runtime-1ms-and-faster-100-in-java-easy-and-understanding-solution-in-java/) |Cooming Soon... | [CodeMasterMindHQ](https://codemastermindhq.vercel.app/docs/dsa/array/easy/max-sub-array)|
+   | [LeetCode](https://leetcode.com/problems/maximum-subarray/) |[LeetCode](https://leetcode.com/problems/maximum-subarray/solutions/2671118/runtime-1ms-and-faster-100-in-java-easy-and-understanding-solution-in-java/) |Cooming Soon... | CodeMasterMindHQ |
 
 ### 4. Contains Duplicate 
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | [LeetCode](https://leetcode.com/problems/contains-duplicate/) |[LeetCode](https://leetcode.com/problems/contains-duplicate/solutions/2671057/easy-and-very-understanding-solution-in-java/) |Cooming Soon... | [CodeMasterMindHQ](https://codemastermindhq.vercel.app/docs/dsa/array/easy/contains-duplicate-array)|
+   | [LeetCode](https://leetcode.com/problems/contains-duplicate/) |[LeetCode](https://leetcode.com/problems/contains-duplicate/solutions/2671057/easy-and-very-understanding-solution-in-java/) |Cooming Soon... | CodeMasterMindHQ |
 
 ### 5. Chocolate Distribution Problem 
 
