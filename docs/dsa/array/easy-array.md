@@ -33,7 +33,7 @@ sidebar_position: 2
 
    | Problem | Solution |Video |Tutorial |
    |:-------:|:--------:|:--------:|:--------:|
-   | LeetCode, [HackerEarth](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/chocolate-distribution-709f61ec/) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
+   | LeetCode, [GFG](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1) |LeetCode |Cooming Soon... | CodeMasterMindHQ|
 
 ### 6. Search in Rotated Sorted Array 
 
