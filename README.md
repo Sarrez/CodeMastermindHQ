@@ -12,7 +12,7 @@
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
-[https://code-mastermind-90djn1elh-ajay-dhangar.vercel.app/](https://code-mastermind-90djn1elh-ajay-dhangar.vercel.app/)
+Live Work With Us: [https://code-mastermind-90djn1elh-ajay-dhangar.vercel.app/](https://code-mastermind-90djn1elh-ajay-dhangar.vercel.app/)
 
 <h1 align="center">CodeMastermindHQ</h1>
 
