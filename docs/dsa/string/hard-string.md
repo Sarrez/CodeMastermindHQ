@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+tags: [CodeMasterMindHQ, strings, strings hard problems, strings in dsa]
 ---
 
 # String Hard Problems

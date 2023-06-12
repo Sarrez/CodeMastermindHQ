@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+tags: [CodeMasterMindHQ, var, let, const, variable in js, var v/s let v/s const]
 ---
 
 # Variable Declaration

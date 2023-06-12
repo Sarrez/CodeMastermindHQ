@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+tags: [CodeMasterMindHQ, arrays in java, arrays in dsa, array easy problems, array, max-min, reverse array, max-sub-array, Pascal's Triangle]
 ---
 
 # Array Easy Problems

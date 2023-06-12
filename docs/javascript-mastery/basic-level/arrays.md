@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+tags: [CodeMasterMindHQ, Arrays in JavaScript, array in js, Array Methods in JavaScript, Sorting Arrays in JavaScript, Array Iteration in JavaScript]
 ---
 
 # Arrays in JavaScript

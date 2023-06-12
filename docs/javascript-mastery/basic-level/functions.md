@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+tags: [CodeMasterMindHQ, Functions, Normal Function, Arrow Function, Anonymous Function]
 ---
 
 # Functions in JavaScript

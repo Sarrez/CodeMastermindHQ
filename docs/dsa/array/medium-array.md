@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+tags: [CodeMasterMindHQ, arrays, arrays midium problems]
 ---
 
 # Arrays Medium Problems
