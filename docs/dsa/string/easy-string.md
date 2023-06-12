@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+tags: [CodeMasterMindHQ, easy strings, strings easy problems]
 ---
 
 # String Easy Problems

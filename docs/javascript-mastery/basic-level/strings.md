@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+tags: [CodeMasterMindHQ, JavaScript Mastery, stings in Js]
 ---
 
 # Strings in JavaScript

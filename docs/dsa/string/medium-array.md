@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+tags: [CodeMasterMindHQ, strings in DSA, strings midium problems]
 ---
 
 # String Medium Problems

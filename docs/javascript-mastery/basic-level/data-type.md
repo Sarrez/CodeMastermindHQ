@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+tags: [CodeMasterMindHQ, Object, Symbol, Symbol, BigInt, Boolean, Undefined, Data Types, String, Data Types in js, Number]
 ---
 
 # Data Types
