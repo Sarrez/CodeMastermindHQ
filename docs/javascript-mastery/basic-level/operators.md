@@ -4,94 +4,151 @@ sidebar_position: 3
 
 # Operators in JavaScript
 
-***JavaScript provides various operators for performing operations on data.***
+Operators in JavaScript are symbols that perform operations on operands (values or variables).
 
-### 1. Arithmetic Operators
+**JavaScript provides various operators for performing operations on data.**
 
-Arithmetic operators are used for mathematical calculations.
+1. Arithmetic Operators
+2. Assignment Operators
+3. Comparison Operators:
+4. String Operators
+5. Logical Operators
+6. Bitwise Operators
+7. Ternary Operator
 
-```js
-let x = 10;
-let y = 5;
-let sum = x + y;  // Addition
-let difference = x - y;  // Subtraction
-let product = x * y;  // Multiplication
-let quotient = x / y;  // Division
-let remainder = x % y;  // Modulo
-let increment = x++;  // Increment
-let decrement = x--;  // Decrement
+### Arithmetic Operators
+
+Arithmetic operators perform mathematical calculations on numeric operands.
+
+```javascript
+let a = 10;
+let b = 5;
+
+console.log(a + b);  // Addition: 15
+console.log(a - b);  // Subtraction: 5
+console.log(a * b);  // Multiplication: 50
+console.log(a / b);  // Division: 2
+console.log(a % b);  // Remainder: 0
+console.log(a ** b); // Exponentiation: 100000
 ```
 
-### 2. Assignment Operators
+### Assignment Operators
 
-Assignment operators are used to assign values to variables.
+Assignment operators assign values to variables.
 
-```js
-let x = 10;
-x += 5;  // Equivalent to x = x + 5;
-x -= 3;  // Equivalent to x = x - 3;
-x *= 2;  // Equivalent to x = x * 2;
-x /= 4;  // Equivalent to x = x / 4;
-x %= 3;  // Equivalent to x = x % 3;
+```javascript
+let a = 10;
+let b = 5;
+
+a += b;  // Equivalent to: a = a + b;
+console.log(a);  // Output: 15
+
+a -= b;  // Equivalent to: a = a - b;
+console.log(a);  // Output: 10
+
+a *= b;  // Equivalent to: a = a * b;
+console.log(a);  // Output: 50
+
+a /= b;  // Equivalent to: a = a / b;
+console.log(a);  // Output: 10
+
+a %= b;  // Equivalent to: a = a % b;
+console.log(a);  // Output: 0
 ```
 
-### 3. Comparison Operators
+### Comparison Operators
 
-Comparison operators are used to compare values and return a Boolean result.
+Comparison operators compare values and return a boolean result (`true` or `false`).
 
-```js
-let x = 5;
-let y = 10;
-let isEqual = x == y;  // Equal to
-let isNotEqual = x != y;  // Not equal to
-let isGreater = x > y;  // Greater than
-let isLess = x < y;  // Less than
-let isGreaterOrEqual = x >= y;  // Greater than or equal to
-let isLessOrEqual = x <= y;  // Less than or equal to
+```javascript
+let a = 10;
+let b = 5;
+
+console.log(a > b);   // Greater than: true
+console.log(a < b);   // Less than: false
+console.log(a >= b);  // Greater than or equal to: true
+console.log(a <= b);  // Less than or equal to: false
+console.log(a === b); // Equal to: false
+console.log(a !== b); // Not equal to: true
 ```
 
-### 4. String Operators
+### String Operators
 
-String operators are used for concatenating strings.
+String operators perform string concatenation or string-related operations.
 
-```js
+```javascript
 let firstName = 'John';
 let lastName = 'Doe';
-let fullName = firstName + ' ' + lastName;  // Concatenation
+
+let fullName = firstName + ' ' + lastName;
+console.log(fullName);  // Output: "John Doe"
+
+let greeting = 'Hello, ' + firstName + '!';
+console.log(greeting);  // Output: "Hello, John!"
 ```
 
-### 5. Logical Operators
+### Logical Operators
 
-Logical operators are used for logical operations.
+Logical operators perform logical operations on boolean operands and return a boolean result.
 
-```js
-let x = true;
-let y = false;
-let result = x && y;  // Logical AND
-let result = x || y;  // Logical OR
-let result = !x;  // Logical NOT
+```javascript
+let a = true;
+let b = false;
+
+console.log(a && b);  // Logical AND: false
+console.log(a || b);  // Logical OR: true
+console.log(!a);     // Logical NOT: false
 ```
 
-### 6. Bitwise Operators
+### Bitwise Operators
 
-Bitwise operators are used to perform operations on binary representations of numbers.
+Bitwise operators perform operations on binary representations of numbers.
 
-```js
-let x = 5;
-let y = 3;
-let result = x & y;  // Bitwise AND
-let result = x | y;  // Bitwise OR
-let result = x ^ y;  // Bitwise XOR
-let result = ~x;  // Bitwise NOT
-let result = x << 1;  // Left shift
-let result = x >> 1;  // Right shift
+```javascript
+let a = 5;
+let b = 3;
+
+console.log(a & b);   // Bitwise AND: 1
+console.log(a | b);   // Bitwise OR: 7
+console.log(a ^ b);   // Bitwise XOR: 6
+console.log(~a);      // Bitwise NOT: -6
+console.log(a << 1);  // Left shift: 10
+console.log(a >> 1);  // Right shift: 2
+console.log(a >>> 1); // Unsigned right shift: 2
 ```
 
-### 7. Ternary Operator
+### Ternary Operator
 
-The ternary operator is a shorthand way of writing conditional statements.
+The ternary operator is a shorthand for an `if-else` statement.
 
-```js
-let age = 18;
-let message = (age >= 18) ? 'Adult' : 'Minor';
+```javascript
+let age = 20;
+
+let message = age >= 18 ? 'You are an adult' : 'You are a minor';
+console.log(message);  // Output: "You are an adult"
 ```
+
+### Interview Questions:
+
+1. What are the arithmetic operators in JavaScript?
+2. What is the result of `10 / 3` in JavaScript?
+3. How can you calculate the remainder of a division operation in JavaScript?
+4. How can you perform exponentiation in JavaScript?
+5. What is the purpose of assignment operators in JavaScript?
+6. What is the difference between += and = in JavaScript?
+7. How can you increment a variable by a specific value using an assignment operator in JavaScript?
+8. What are comparison operators used for in JavaScript?
+9. What is the difference between == and === in JavaScript?
+10. How can you check if two values are not equal using a comparison operator in JavaScript?
+11. What is string concatenation in JavaScript?
+12. How can you combine two strings using the string operator?
+13. Can you perform mathematical operations using string operators in JavaScript?
+14. What are logical operators used for in JavaScript?
+15. What is the difference between && and || in JavaScript?
+16. How can you negate a boolean value using a logical operator in JavaScript?
+17. What are bitwise operators used for in JavaScript?
+18. How can you perform bitwise AND, OR, and XOR operations using bitwise operators in JavaScript?
+19. What is the difference between >> and >>> in JavaScript?
+20. What is the ternary operator used for in JavaScript?
+21. What is the syntax of the ternary operator?
+22. How can you replace an if-else statement with a ternary operator?
