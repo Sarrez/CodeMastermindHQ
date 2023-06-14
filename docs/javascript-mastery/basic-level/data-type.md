@@ -23,6 +23,8 @@ A string is a sequence of characters enclosed in single or double quotes. It rep
 ```javascript
 let name = 'John Doe';
 let message = "Hello, world!";
+console.log(name); // John Doe
+console.log(message); // Hello, world!
 ```
 
 ### 2. Number
@@ -72,7 +74,14 @@ let data = null;
 Symbol is a unique and immutable data type that can be used as an identifier for object properties.
 
 ```javascript
-let id = Symbol('id');
+let name1 = Symbol('Ajay');
+let name2 = Symbol('Ajay');
+if(name1==name2 || name1===name2){
+  console.log("is equal");
+}
+else{
+  console.log("is not equal");
+}
 ```
 
 ### 8. Arrays
