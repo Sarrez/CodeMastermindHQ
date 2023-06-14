@@ -4,6 +4,16 @@
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
+const path = require('path');
+
+// const npm2yarn = require('@docusaurus/remark-plugin-npm2yarn');
+// const webpackProxy = require('./src/plugins/webpackProxy/index');
+// const baseUrl = process.env.BASE_URL || '/';
+// const isDeployPreview = !!process.env.GITHUB_ACTIONS;
+
+
+
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "CodeMastermindHQ",
@@ -56,6 +66,9 @@ const config = {
     ],
   ],
 
+  // themes: ['@docusaurus/theme-live-codeblock'],
+
+ 
   
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -92,8 +105,7 @@ const config = {
         creator: "@AJAYDHA27250016",
         image: "img/log.png",
       },
-
-      
+     
 
       navbar: {
         title: "CodeMastermindHQ",
@@ -182,8 +194,6 @@ const config = {
 
           { to: "/blog", label: "📰 Blog", position: "left" },
 
-
-
           // {
           //   type: 'docsVersionDropdown',
           //   position: 'right',
@@ -195,7 +205,7 @@ const config = {
 
             
           {
-            type: 'dropdown',
+            type: 'dropdown',            
             label: 'Connect',
             position: 'right',
             items: [
@@ -371,6 +381,7 @@ const config = {
         ],
       },
 
+      
       // algolia:{
       //   appId: "3EH6TJCID4",
       //   apiKey: "ad19335c8a5507b62282984061a68689",

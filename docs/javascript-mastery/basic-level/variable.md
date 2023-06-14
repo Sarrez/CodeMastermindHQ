@@ -7,7 +7,7 @@ tags: [CodeMasterMindHQ, var, let, const, variable in js, var v/s let v/s const]
 
 In JavaScript, variables are used to store and manipulate data. Before using a variable, you need to declare it using one of the following keywords: `var`, `let`, or `const`. Each keyword has its own characteristics and scope rules.
 
-### `var` keyword:
+### var keyword:
 
 The `var` keyword was the original way to declare variables in JavaScript. However, it has some limitations and scope-related issues. Variables declared with `var` have function scope or global scope, depending on where they are declared.
 
@@ -22,7 +22,7 @@ example(); // Output: Hello
 console.log(message); // Throws an error: message is not defined
 ```
 
-### `let` keyword:
+### let keyword:
 
 The `let` keyword was introduced in ECMAScript 6 (ES6) as a replacement for `var`. Variables declared with `let` have block scope, which means they are only accessible within the block they are declared in.
 
@@ -39,7 +39,7 @@ function example() {
 
 example(); // Output: Hi Hello
 ```
-### `const` keyword: 
+### const keyword: 
 
 The `const` keyword is used to declare constants in JavaScript. Constants are read-only and cannot be reassigned after they are defined. They also have block scope like variables declared with `let`.
 

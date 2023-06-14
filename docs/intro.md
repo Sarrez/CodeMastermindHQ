@@ -3,7 +3,10 @@ sidebar_position: 1
 tags: [CodeMasterMindHQ, HTML, HTML Mastry, css, CSS Mastery, javascrpt, JavaScript Mastery, js, react, jsx, node, dsa, data structures and algorithnms, node, mongoDB]
 ---
 
-# Welcome to CodeMasterMindHQ Tutorials!
+# Welcome to CodeMasterMindHQ Tutorials! 
+
+<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50px" height="50px"></img>
+
 
 In this tutorial series, we will cover a wide range of topics related to web development, programming languages, software development, and more. Whether you're a beginner looking to learn the basics or an experienced professional seeking to deepen your knowledge, our tutorials are designed to be accessible and informative.
 
