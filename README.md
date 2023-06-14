@@ -16,16 +16,15 @@ Live Work With Us: [https://code-mastermind-90djn1elh-ajay-dhangar.vercel.app/](
 
 <h1 align="center">CodeMastermindHQ</h1>
 
-![screencapture-codemastermindhq-vercel-app-2023-04-05-08_47_05](https://user-images.githubusercontent.com/99037494/229972818-264a8c07-603f-43d1-8852-a210d0e46b61.png)
+![screencapture-codemastermindhq-vercel-app-2023-06-14-12_15_57](https://github.com/Ajay-Dhangar/CodeMastermindHQ/assets/99037494/84f57431-aab7-4e79-a816-f1d74970d777)
 
-## Blogs
 
-![image](https://user-images.githubusercontent.com/99037494/229972770-0d7d59ce-01ab-4ff0-b78c-1b31a253880f.png)
+## Dark Mode
 
-## Tutorials
+![screencapture-codemastermindhq-vercel-app-2023-06-14-12_17_25](https://github.com/Ajay-Dhangar/CodeMastermindHQ/assets/99037494/efd8e8fd-8d3b-48df-bbb4-86f9218798b2)
 
-![screencapture-codemastermindhq-vercel-app-docs-category-javascript-mastery-2023-04-05-08_46_45](https://user-images.githubusercontent.com/99037494/229973001-18885989-0252-46b9-9bbb-5af72887bc29.png)
 
+<!-- 
 ## inroduction
 
 CodeMastermindHQ is a platform designed for aspiring coders and developers to enhance their coding skills and stay up-to-date with the latest programming technologies. With a vast range of tutorials, resources, and challenges, this website provides an interactive and immersive learning experience for beginners and experienced programmers alike.
@@ -59,8 +58,8 @@ CodeMastermindHQ is a web application that allows users to practice and improve 
 1. **Project-based learning:** The website offers project-based learning that helps learners to apply their coding skills to real-world problems. The projects are designed to challenge learners and encourage them to think creatively.
 
 2. **Code challenges:** CodeMastermindHQ provides a wide range of code challenges that are designed to test learners' coding skills. The challenges are organized by difficulty level, allowing learners to progress at their own pace.
-
-3. **Code snippets:** The website offers a vast collection of code snippets that learners can use as a reference when working on their projects.
+ -->
+<!-- 3. **Code snippets:** The website offers a vast collection of code snippets that learners can use as a reference when working on their projects.
 
 4. **Interactive coding environment:** The interactive coding environment on the website allows learners to write, execute and debug their code directly on the website.
 
@@ -75,23 +74,23 @@ CodeMastermindHQ is a web application that allows users to practice and improve 
 9. **Mobile-friendly:** The website is mobile-friendly, allowing learners to access tutorials, challenges and forums on the go.
 
 10. **Ad-free:** CodeMastermindHQ is an ad-free platform, providing a distraction-free learning environment for learners.
-
-## Here are some additional advantages and disadvantages of CodeMastermindHQ:
+ -->
+<!-- ## Here are some additional advantages and disadvantages of CodeMastermindHQ:
 
 ### Advantages:
-1. **Accessible to everyone:** The website is accessible to anyone with an internet connection, making it easy for learners to access tutorials and challenges from anywhere in the world.
-2. **Affordable:** CodeMastermindHQ is an affordable option for learners who may not be able to afford expensive coding boot camps or courses.
+1. **Accessible to everyone:** The website is accessible to anyone with an internet connection, making it easy for learners to access tutorials and challenges from anywhere in the world. -->
+<!-- 2. **Affordable:** CodeMastermindHQ is an affordable option for learners who may not be able to afford expensive coding boot camps or courses.
 3. **Continuous learning:** The website offers continuous learning opportunities for learners, with new tutorials, challenges and projects added regularly.
 4. **Self-paced learning:** Learners can learn at their own pace, without the pressure of keeping up with a class or cohort.
-5. **Diverse learning resources:** CodeMastermindHQ offers a diverse range of learning resources, including videos, tutorials, code snippets, and challenges, catering to different learning styles.
+5. **Diverse learning resources:** CodeMastermindHQ offers a diverse range of learning resources, including videos, tutorials, code snippets, and challenges, catering to different learning styles. -->
 
-### Disadvantages:
+<!-- ### Disadvantages:
 
 1. **Limited interaction with instructors:** Learners may have limited interaction with instructors, which can be a disadvantage for those who prefer a more hands-on learning approach.
 2. **Lack of motivation:** Without the structure and accountability of a traditional classroom setting, some learners may struggle to stay motivated and engaged with the material.
 3. **Technical issues:** Technical issues such as website downtime or connectivity problems can be a barrier to learning for some users.
-4. **Limited networking opportunities:** Online learning platforms may not offer the same level of networking opportunities as traditional classrooms or in-person events.
-
+4. **Limited networking opportunities:** Online learning platforms may not offer the same level of networking opportunities as traditional classrooms or in-person events. -->
+<!-- 
 ## Here are some additional features and insights about CodeMastermindHQ:
 
 1. **Real-world applications:** CodeMastermindHQ offers practical coding projects that can be used to solve real-world problems. These projects are designed to help learners build their coding skills while also learning how to apply those skills to real-world scenarios.
@@ -108,4 +107,4 @@ CodeMastermindHQ is a web application that allows users to practice and improve 
 
 7. **Social impact:** CodeMastermindHQ's focus on accessibility and affordability means that it has the potential to make a significant impact in bringing tech education to underserved communities.
 
-8. **Scalability:** The online platform makes it easy for CodeMastermindHQ to scale its services to reach more learners globally, providing even greater accessibility to tech education.
+8. **Scalability:** The online platform makes it easy for CodeMastermindHQ to scale its services to reach more learners globally, providing even greater accessibility to tech education. -->
