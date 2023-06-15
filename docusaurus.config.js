@@ -415,8 +415,9 @@ const config = {
       },
     
     }),
-
-    
+    plugins:[
+      path.join(__dirname, '/plugins/my-plugin')
+    ],  
    
 };
 

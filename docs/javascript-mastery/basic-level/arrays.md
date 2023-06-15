@@ -66,49 +66,49 @@ let joined = combined.join(', ');            // 'Apple, Banana, Carrot, Potato'
 
 ### Array Methods Interview Questions
 1. How do you add an element to the end of an array in JavaScript?
-```javascript
-array.push(element);
-```
+   ```javascript
+   array.push(element);
+   ```
 
 2. How do you remove the last element from an array in JavaScript?
-```javascript
-array.pop();
-```
+   ```javascript
+   array.pop();
+   ```
 
 3. How do you add an element to the beginning of an array in JavaScript?
-```javascript
-array.unshift(element);
-```
+   ```javascript
+   array.unshift(element);
+   ```
 
 4. How do you remove the first element from an array in JavaScript?
-```javascript
-array.shift();
-```
+   ```javascript
+   array.shift();
+   ```
 
 5. How do you find the index of an element in an array in JavaScript?
-```javascript
-array.indexOf(element);
-```
+   ```javascript
+   array.indexOf(element);
+   ```
 
 6. How do you extract a portion of an array in JavaScript?
-```javascript
-array.slice(startIndex, endIndex);
-```
+   ```javascript
+   array.slice(startIndex, endIndex);
+   ```
 
 7. How do you insert or remove elements from an array at a specific position in JavaScript?
-```javascript
-array.splice(startIndex, deleteCount, element1, element2, ...);
-```
+   ```javascript
+   array.splice(startIndex, deleteCount, element1, element2, ...);
+   ```
 
 8. How do you concatenate two or more arrays in JavaScript?
-```javascript
-array1.concat(array2, ...);
-```
+   ```javascript
+   array1.concat(array2, ...);
+   ```
 
 9. How do you join all elements of an array into a string in JavaScript?
-```javascript
-array.join(separator);
-```
+   ```javascript
+   array.join(separator);
+   ```
 
 ## Sorting Arrays in JavaScript
 JavaScript provides a `sort()` method to sort the elements of an array in place. By default, the `sort()` method sorts elements as strings in lexicographic order. However, you can also provide a compare function to define your custom sorting logic.
@@ -202,12 +202,12 @@ console.log(numbers);   // [10, 2, 3, 4]
 ### Array Const Interview Questions
 
 1. Can you assign a new array to a variable declared with `const` in JavaScript?
-```javascript
-No, you cannot assign a new array to a variable declared with `const`. The `const` keyword creates a variable that cannot be reassigned.
-```
+   ```javascript
+   No, you cannot assign a new array to a variable declared with `const`. The `const` keyword creates a variable that cannot be reassigned.
+   ```
 
 2. Can you modify the elements of an array declared with `const` in JavaScript?
-```javascript
-Yes, you can modify the elements of an array declared with `const`. The `const` keyword only prevents reassignment of the variable, not modification of its contents.
-```
+   ```javascript
+   Yes, you can modify the elements of an array declared with `const`. The `const` keyword only prevents reassignment of the variable, not modification of its contents.
+   ```
 
