@@ -14,14 +14,17 @@
 
 Live Work With Us: [https://code-mastermind-90djn1elh-ajay-dhangar.vercel.app/](https://code-mastermind-90djn1elh-ajay-dhangar.vercel.app/)
 
-<h1 align="center">CodeMastermindHQ</h1>
+-------------------------------------------------------
 
-![screencapture-codemastermindhq-vercel-app-2023-06-14-12_15_57](https://github.com/Ajay-Dhangar/CodeMastermindHQ/assets/99037494/84f57431-aab7-4e79-a816-f1d74970d777)
+<h2 align="center">Projects</h2> 
 
+1. HTML Mastery
+2. CSS Mstery
+3. Responsive Designs
+   - [anime-main](https://ajay-dhangar.github.io/CodeMastermindHQ/projects/responsive-design/anime-main/)
 
-## Dark Mode
-
-![screencapture-codemastermindhq-vercel-app-2023-06-14-12_17_25](https://github.com/Ajay-Dhangar/CodeMastermindHQ/assets/99037494/efd8e8fd-8d3b-48df-bbb4-86f9218798b2)
+4. JavaSrcipt Mastery
+5. React-Mastery
 
 
 <!-- 
