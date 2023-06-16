@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body{
+    background-color: rgba(100, 102, 128, 0.397);
+}
+#root{
+    margin: 5px;
+    padding: 5px;
+}
+#main{
+    background-color: rgba(211, 231, 231, 0.432);
+    padding: 15px;
+}
+#navbar{
+    margin: 10px;
+    margin-bottom: 50px;
+    background-color: chartreuse;
+    padding: 15px;
+    border-radius: 10px;
+}
+#items{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+.item{
+    list-style: none;  
+    font-size: 18px;  
+    font-weight: bold;
+}
+.item a{
+    text-decoration: none;
+}
+#home{
+    padding: 15px;
+    margin-bottom: 30px;
+}
+#home h2{
+    text-align: center;
+}
+#home p{
+    margin-top: 20px;
+    line-height: 30px;
+}
+
+#about{
+    padding: 15px;
+    margin-bottom: 30px;
+}
+#about h2{
+    text-align: center;
+}
+#about p{
+    margin-top: 20px;
+    line-height: 30px;
+}
+
+#projects{
+    padding: 15px;
+    margin-bottom: 30px;
+}
+/* #projects-content{
+    display: flex;
+    flex-wrap: wrap;
+} */
+#projects h2{
+    text-align: center;
+    margin-bottom: 10px;
+}
+#col-1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    text-align: center;
+    /* background-color: rgb(197, 181, 181);
+    border-radius: 10px; */
+    padding: 10px;
+    justify-content: center;
+}
+.col-items{
+    background-color: goldenrod;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 8px #726262;
+    border-color: #fff;
+    width: 350px;
+}
+.col-items h3{
+    margin: 5px;
+}
+.col-items img{
+    margin: 15px;
+    width: 320px;
+    border-radius: 10px;
+}
+.col-items .project-links{
+    margin: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.col-items .project-links button{
+    padding: 2px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+#contect h2{
+    text-align: center;
+}
+
+
+form{
+    margin: 20px;
+    background-color: rgba(255, 47, 193, 0.158);
+    box-shadow: 4px 4px 8px #473c3c;
+    padding: 15px;
+    border-radius: 30px;
+    padding-left: 25%;   
+}
+form button{
+    margin-left: 80px;
+    padding: 5px;
+    font-size: 18px;
+    border-radius: 8px;
+    background-color: rgba(0, 153, 255, 0.151);
+}
