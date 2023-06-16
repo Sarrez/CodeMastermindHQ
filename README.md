@@ -22,6 +22,9 @@ Live Work With Us: [https://code-mastermind-90djn1elh-ajay-dhangar.vercel.app/](
 2. CSS Mstery
 3. Responsive Designs
    - [anime-main](https://ajay-dhangar.github.io/CodeMastermindHQ/projects/responsive-design/anime-main/)
+   - [cyborg-1.0.0](https://ajay-dhangar.github.io/CodeMastermindHQ/projects/responsive-design/cyborg-1.0.0/)
+   - [game-warrior-gh-pages](https://ajay-dhangar.github.io/CodeMastermindHQ/projects/responsive-design/game-warrior-gh-pages/)
+   
 
 4. JavaSrcipt Mastery
 5. React-Mastery
