@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+tags: [Debugging in JavaScript, Debugging, Types of Debugging, Debugging Interview Questions]
 ---
 
 # Debugging in JavaScript
