@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Slider</title>
+    <style>
+        .slider {
+  display: flex;
+  overflow: hidden;
+}
+
+.slide {
+  flex: 1;
+}
+
+.slide img {
+  width: 400px;
+  height: auto;
+}
+
+.controls {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.prev,
+.next {
+  padding: 10px 20px;
+}
+
+    </style>
+</head>
+<body>
+    <div id="root">
+        <div class="slider">
+            <div class="slide">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSevp65kzj8u4QXw_AWnteewL4b-BIHJZGlmA&usqp=CAU" alt="Image 1">
+            </div>
+            <div class="slide">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkgXWUMr_Vcw6KhaHLTy0SNSljgWrMIi5rFQ&usqp=CAU" alt="Image 2">
+            </div>
+            <div class="slide">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEMUoI-FxiR5Tph4m3c-qn3ieUm6Msrk73d1VYBsuDK6Q2nNkSxEraactORpmFIP4G3f8&usqp=CAU" alt="Image 3">
+            </div>
+            <div class="slide">
+              <img src="ihttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvPFZV9pYmf8xu4bVXbH6t6uGyU834IXuU0g&usqp=CAU" alt="Image 4">
+            </div>
+          </div>
+          
+          <div class="controls">
+            <button class="prev">Prev</button>
+            <button class="next">Next</button>
+          </div>
+          
+    </div>
+    <script>
+        const slider = document.querySelector('.slider');
+const slides = document.querySelectorAll('.slide');
+const prevBtn = document.querySelector('.prev');
+const nextBtn = document.querySelector('.next');
+
+let currentSlide = 0;
+
+// Function to show the current slide
+const showSlide = () => {
+  // Hide all slides
+  slides.forEach((slide) => {
+    slide.style.display = 'none';
+  });
+
+  // Show the current slide
+  slides[currentSlide].style.display = 'block';
+};
+
+// Function to go to the previous slide
+const goToPrevSlide = () => {
+  currentSlide--;
+  if (currentSlide < 0) {
+    currentSlide = slides.length - 1;
+  }
+  showSlide();
+};
+
+// Function to go to the next slide
+const goToNextSlide = () => {
+  currentSlide++;
+  if (currentSlide === slides.length) {
+    currentSlide = 0;
+  }
+  showSlide();
+};
+
+// Event listeners for previous and next buttons
+prevBtn.addEventListener('click', goToPrevSlide);
+nextBtn.addEventListener('click', goToNextSlide);
+
+// Show the initial slide
+showSlide();
+
+    </script>
+</body>
+</html>

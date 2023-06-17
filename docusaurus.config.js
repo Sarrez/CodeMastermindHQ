@@ -187,12 +187,44 @@ const config = {
           },
 
           {
+            type: 'dropdown',
+            label: '🔍 Projects',
+            position: 'left',
+            items: [              
+              {
+                to: '/',
+                label: '💻 HTML Mastery 🚀',
+              },
+              {
+                to: '/',
+                label: '🎨 CSS Mastery 🚀',
+              },
+              {
+                to: '/',
+                label: '📱 Responsive Design 🚀',
+              },
+              {
+                to: '/',
+                label: '🔥 JavaScript Mastery 🚀',
+              },
+              {
+                to: '/',
+                label: '⚛️ React Mastery 🚀',
+              },
+              
+            ]
+          },
+
+
+          {
             label: '🏷️ Tags',
             to: '/docs/tags/',
             activeBaseRegex: `/docs/tags/`,
           },
 
           { to: "/blog", label: "📰 Blog", position: "left" },
+
+         
 
           // {
           //   type: 'docsVersionDropdown',
